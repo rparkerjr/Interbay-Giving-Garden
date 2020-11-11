@@ -17,4 +17,14 @@ Created a separate file (produce_mapping.csv) to translate duplicate values and 
 ### Nutrition Data
 I found a spreadsheet with lots of nutritional data by food item (https://tools.myfooddata.com/nutrition-facts-database-spreadsheet.php) and will be adding this in the future.
 
-
+## Output Data
+Cleaned .csv output as 'Giving Garden Combined.csv'
+- date : ISO formatted date
+- produce : string, categorical, type of produce harvested/donated as entered
+- gardener : string, categorical, donating party
+- weight : float [##.#], recorded weight in pounds for the given produce
+- week : integer, ISO week of donation
+- year : integer, 4-digit year of donation
+- prod_name : string, cleaned and standardized produce name
+- generic_name : string, generic rollup produce name
+- prod_group : string, broad rollup category
