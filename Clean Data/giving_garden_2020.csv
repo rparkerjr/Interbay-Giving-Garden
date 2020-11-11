@@ -1,0 +1,223 @@
+date,produce,weight
+2020-05-19,"Kale, red Russian",9
+2020-05-19,"Lettuce, optima",2.5
+2020-05-19,Radishes,3
+2020-05-19,Mizuma,12
+2020-05-19,Mustard greens,3
+2020-05-19,Chives,1
+2020-05-19,"Asian greens, vitamin",1.5
+2020-05-26,"Kale, red Russian",5
+2020-05-26,Chard,1
+2020-05-26,Spinach,4
+2020-05-26,"Lettuce, optima",1
+2020-05-26,Radishes,1.5
+2020-05-26,Mustard greens,3
+2020-05-26,Collard greens,3.5
+2020-05-26,Chives,0.25
+2020-05-26,"Kale, dwarf Siberian",4
+2020-05-27,Spinach,1
+2020-05-27,Kale,0.75
+2020-06-02,Spinach,8.5
+2020-06-02,Kale,12
+2020-06-02,Collard greens,3
+2020-06-02,Lettuce,0.5
+2020-06-02,Chard,1.5
+2020-06-02,"Asian greens, vitamin",1.5
+2020-06-02,Mustard greens,4
+2020-06-02,Radishes,3.5
+2020-06-09,Collard greens,1
+2020-06-09,Chard,6
+2020-06-09,"Asian greens, vitamin",1
+2020-06-09,Spinach,9
+2020-06-09,Radishes,1.25
+2020-06-09,"Kale, red Russian",3.25
+2020-06-09,Mustard greens,1
+2020-06-09,Beets,2.25
+2020-06-16,Broccoli greens,2
+2020-06-16,Kale,7.5
+2020-06-16,Spinach,3.25
+2020-06-16,Beets,1
+2020-06-16,"Asian greens, vitamin",1.5
+2020-06-16,Lettuce,2.5
+2020-06-16,Chard,2
+2020-06-23,Lettuce,18
+2020-06-23,Chives,0.25
+2020-06-23,Collard greens,1.5
+2020-06-23,Parsley,2
+2020-06-23,Chard,2
+2020-06-23,"Kale, red Russian",9
+2020-06-23,"Kale, dwarf Siberian",3.5
+2020-06-23,Green onions,0.75
+2020-06-23,Spinach,2
+2020-06-23,Zucchini,0.25
+2020-06-30,"Kale, dwarf Siberian",5
+2020-06-30,Zucchini,5.75
+2020-06-30,Collard greens,5.5
+2020-06-30,Broccoli greens,1.25
+2020-06-30,Chard,2.25
+2020-06-30,Parsley,3
+2020-06-30,Kale,3.5
+2020-07-07,Broccoli,2
+2020-07-07,Peas,0.25
+2020-07-07,Curly kale,2.75
+2020-07-07,"Kale, dwarf Siberian",5.5
+2020-07-07,Chard,6
+2020-07-07,"Lettuce, romaine",1.5
+2020-07-07,Kale,4
+2020-07-07,Broccoli greens,2.5
+2020-07-07,Parsley,1.5
+2020-07-07,Carrots,1.5
+2020-07-07,Beets,0.5
+2020-07-07,Zucchini,10.5
+2020-07-14,Collard greens,4
+2020-07-14,Zucchini,26.5
+2020-07-14,Plums,4
+2020-07-14,Kale,8.25
+2020-07-14,Broccoli,0.75
+2020-07-14,Chard,2
+2020-07-14,Beets,1.5
+2020-07-14,Peas,0.25
+2020-07-14,Carrots,1.5
+2020-07-19,Zucchini,9
+2020-07-21,Collard greens,3.5
+2020-07-21,Peas,0.5
+2020-07-21,Beans,0.5
+2020-07-21,Yellow squash,4
+2020-07-21,Zucchini,22.5
+2020-07-21,Parsley,7
+2020-07-21,Chard,3
+2020-07-21,Kale,3
+2020-07-21,Broccoli,1.25
+2020-07-21,Beets,0.5
+2020-07-21,Basil,0.25
+2020-07-28,"Tomatoes, cherry",0.5
+2020-07-28,"Onions, white",1.5
+2020-07-28,Yellow squash,9.5
+2020-07-28,Green beans,2
+2020-07-28,Basil,4
+2020-07-28,Chard,6
+2020-07-28,Zucchini,23
+2020-07-28,Broccoli,0.5
+2020-08-04,Cucumber,6
+2020-08-04,Onions,3
+2020-08-04,"Tomatoes, cherry",0.6
+2020-08-04,Chard,4.25
+2020-08-04,Kale,6.1
+2020-08-04,Beets,3.4
+2020-08-04,Yellow squash,19.4
+2020-08-04,Lettuce,3.8
+2020-08-04,Collard greens,6.6
+2020-08-04,Green beans,6.1
+2020-08-04,Broccoli,1
+2020-08-04,"Kale, red Russian",6.3
+2020-08-04,Parsley,4.7
+2020-08-04,Zucchini,16.6
+2020-08-04,Yellow squash,10.8
+2020-08-11,Zucchini,6.5
+2020-08-11,Lettuce,3.5
+2020-08-11,Kale,11.5
+2020-08-11,Collard greens,2.5
+2020-08-11,Green beans,10
+2020-08-11,Squash,27
+2020-08-11,Yellow squash,2.5
+2020-08-11,Cucumber,1
+2020-08-15,"Apples, green",39
+2020-08-18,Cucumber,4.5
+2020-08-18,Kale,2.5
+2020-08-18,Lettuce,3.3
+2020-08-18,Zucchini,4
+2020-08-18,"Tomatoes, cherry",1
+2020-08-18,Yellow squash,19.1
+2020-08-18,Chard,3.5
+2020-08-18,Broccoli,1.5
+2020-08-18,Collard greens,4
+2020-08-18,Parsley,3
+2020-08-18,Green beans,1.4
+2020-08-18,Herbs,2
+2020-08-25,Yellow squash,14.4
+2020-08-25,Zucchini,27.3
+2020-08-25,Kale,8
+2020-08-25,Lettuce,4
+2020-08-25,Cucumber,5
+2020-08-25,Green beans,4.4
+2020-08-25,Beets,3
+2020-08-25,"Tomatoes, cherry",3.5
+2020-08-25,Basil,0.2
+2020-08-25,Collard greens,1.4
+2020-08-25,Chard,7.4
+2020-08-25,Parsley,0.5
+2020-09-01,Zucchini,24
+2020-09-01,Cucumber,10.5
+2020-09-01,"Tomatoes, roma",5.5
+2020-09-01,Kale,7.5
+2020-09-01,Green beans,6.5
+2020-09-01,Broccoli,1.5
+2020-09-01,Chard,4.5
+2020-09-01,Yellow squash,6.5
+2020-09-01,Lettuce,1.5
+2020-09-01,Basil,0.5
+2020-09-01,Beets,0.25
+2020-09-08,Kale,1.5
+2020-09-08,Cucumber,12.7
+2020-09-08,Collard greens,2.2
+2020-09-08,Yellow squash,34.2
+2020-09-08,Beets,0.2
+2020-09-08,"Tomatoes, cherry",4.7
+2020-09-08,Green beans,3.5
+2020-09-08,Zucchini,2
+2020-09-08,"Tomatoes, roma",4.2
+2020-09-08,Parsley,0.8
+2020-09-08,Chard,4.3
+2020-09-15,"Tomatoes, roma",9.1
+2020-09-15,"Tomatoes, cherry",3.7
+2020-09-15,Green beans,1.5
+2020-09-15,Cucumber,14
+2020-09-15,Spinach,2.3
+2020-09-15,Beets,4.8
+2020-09-15,Kale,0.5
+2020-09-15,Lettuce,1.7
+2020-09-15,Zucchini,5.6
+2020-09-15,Yellow squash,6.4
+2020-09-22,Zucchini,10.5
+2020-09-22,Yellow squash,11.5
+2020-09-22,"Kale, red Russian",7.5
+2020-09-22,Green beans,4
+2020-09-22,Cucumber,11
+2020-09-22,"Tomatoes, roma",11.5
+2020-09-22,"Tomatoes, cherry",3.5
+2020-09-22,Beets,3.5
+2020-09-22,Collard greens,4
+2020-09-26,Apples,18.5
+2020-09-27,Peppers,1
+2020-09-29,Zucchini,7
+2020-09-29,Kale,2.5
+2020-09-29,Spinach,2.4
+2020-09-29,Beets,0.6
+2020-09-29,Chard,1
+2020-09-29,"Tomatoes, cherry",2
+2020-09-29,Green beans,4
+2020-09-29,Yellow squash,1
+2020-09-29,"Tomatoes, roma",8
+2020-09-29,Cucumber,5
+2020-09-29,Basil,0.6
+2020-09-29,"Tomatoes, green",7
+2020-09-29,Pac choi,0.5
+2020-10-03,Apples,19.5
+2020-10-06,"Squash, delicata",3.5
+2020-10-06,"Squash, butternut",5
+2020-10-06,"Kale, red Russian",3.5
+2020-10-06,Green beans,7.5
+2020-10-06,Chard,2
+2020-10-06,Cucumber,11.5
+2020-10-06,Parsley,1.5
+2020-10-06,Lettuce,2
+2020-10-06,Pac choi,0.5
+2020-10-06,"Tomatoes, cherry",6.9
+2020-10-13,Yellow squash,1
+2020-10-13,Cucumber,16.5
+2020-10-13,Parsley,1.5
+2020-10-13,Beets,4
+2020-10-13,Green beans,2.2
+2020-10-13,Chard,1.8
+2020-10-13,Spinach,1.9
+2020-10-13,Pac choi,0.6

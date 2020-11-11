@@ -1,0 +1,296 @@
+date,produce,weight
+2013-04-09,kale,7
+2013-04-09,collards,5.5
+2013-04-09,collards,1.5
+2013-04-09,chard,7
+2013-04-09,kale,5
+2013-04-09,chard,1
+2013-04-09,chard,5
+2013-04-09,kale,10.5
+2013-04-16,chard,14
+2013-04-23,beets,14
+2013-04-23,beets,11
+2013-04-23,beets,13.5
+2013-04-23,chard,7.5
+2013-04-23,chard,7
+2013-04-23,chard,6.5
+2013-04-23,beets,48.5
+2013-04-23,chard,8
+2013-04-30,chives,2
+2013-04-30,fennel,0.5
+2013-04-30,lemon balm,1
+2013-04-30,mint,2
+2013-04-30,oregano,1
+2013-04-30,rosemary,0.5
+2013-04-30,mint,0.3
+2013-04-30,rosemary,0.3
+2013-05-27,lettuce,33
+2013-05-27,herbs,2
+2013-06-01,herbs,1
+2013-06-01,lettuce,5
+2013-06-03,lettuce,5.5
+2013-06-04,lettuce,11.5
+2013-06-04,lettuce,14.5
+2013-06-04,collards,2
+2013-06-04,kale,6
+2013-06-04,lettuce,39.5
+2013-06-04,chard,2.5
+2013-06-04,kale,2
+2013-06-04,lettuce,15
+2013-06-08,chard,5
+2013-06-08,lettuce,7
+2013-06-10,chard,1
+2013-06-10,kale,1
+2013-06-10,peas,0.5
+2013-06-10,lettuce,4
+2013-06-11,lettuce,63
+2013-06-11,peas,0.5
+2013-06-11,kale,2
+2013-06-11,collards,2
+2013-06-11,lettuce,7
+2013-06-11,chard,3
+2013-06-11,lettuce,11
+2013-06-11,chard,4
+2013-06-11,kale,3
+2013-06-11,radishes,1
+2013-06-11,herbs,2.5
+2013-06-11,lettuce,0.5
+2013-06-17,lettuce,4
+2013-06-17,chard,1
+2013-06-17,kale,0.5
+2013-06-17,peas,1
+2013-06-18,peas,2
+2013-06-18,lettuce,33
+2013-06-18,chard,2.5
+2013-06-18,lettuce,30
+2013-06-18,mint,6.5
+2013-06-18,chard,2
+2013-06-18,kale,6
+2013-06-18,beets,1
+2013-06-18,peas,0.5
+2013-06-18,beets,2
+2013-06-18,bok choi,1
+2013-06-18,lettuce,0.5
+2013-06-23,lettuce,27.5
+2013-06-23,beets,3
+2013-06-23,chard,1
+2013-06-23,peas,0.5
+2013-06-23,lettuce,11
+2013-06-25,lettuce,13
+2013-06-25,beets,8
+2013-06-25,chard,12
+2013-06-25,kale,6
+2013-06-25,kale,5
+2013-06-25,peas,0.5
+2013-07-02,lettuce,9.5
+2013-07-02,peas,0.5
+2013-07-02,onions,26
+2013-07-02,beets,9
+2013-07-02,green beans,7.5
+2013-07-02,chard,6
+2013-07-02,kale,1.5
+2013-07-02,beets,9.5
+2013-07-02,onions,21
+2013-07-02,collards,1.5
+2013-07-02,chard,1
+2013-07-02,kale,2
+2013-07-02,lettuce,10
+2013-07-02,peas,7.5
+2013-07-02,zucchini,0.5
+2013-07-02,lettuce,8
+2013-07-06,lettuce,3
+2013-07-06,onions,9
+2013-07-06,beets,3
+2013-07-06,chard,2
+2013-07-09,lettuce,5.5
+2013-07-09,chard,6
+2013-07-09,lettuce,5.5
+2013-07-09,green beans,7
+2013-07-09,kale,2
+2013-07-09,beets,9
+2013-07-09,kale,5.5
+2013-07-09,summer squash,6.5
+2013-07-09,collards,2
+2013-07-09,chard,13
+2013-07-09,lettuce,1
+2013-07-09,green beans,1
+2013-07-16,zucchini,7
+2013-07-16,beets,32
+2013-07-16,chard,3.5
+2013-07-16,plums,24.5
+2013-07-16,peas,3.5
+2013-07-16,kale,7
+2013-07-16,zucchini,1.5
+2013-07-16,chard,3.5
+2013-07-16,plums,27
+2013-07-16,green beans,1
+2013-07-16,lettuce,2.5
+2013-07-16,plums,9.5
+2013-07-16,peas,0.5
+2013-07-16,potatoes,2
+2013-07-16,green beans,0.5
+2013-07-21,green beans,2
+2013-07-21,chard,1.5
+2013-07-21,zucchini,11.5
+2013-07-23,zucchini,6.5
+2013-07-23,lettuce,4
+2013-07-23,potatoes,17
+2013-07-23,cucumbers,0.5
+2013-07-23,chard,3.5
+2013-07-23,zucchini,1
+2013-07-23,green beans,0.5
+2013-07-23,collards,2
+2013-07-23,kale,2
+2013-07-23,chard,1
+2013-07-23,beets,26
+2013-07-23,lettuce,4
+2013-07-23,chard,2.5
+2013-07-23,beets,3
+2013-07-23,plums,14
+2013-07-23,zucchini,1
+2013-07-27,zucchini,10
+2013-07-29,rhubarb,1
+2013-07-30,green beans,2.5
+2013-07-30,tomatoes,1
+2013-07-30,cucumbers,2
+2013-07-30,zucchini,2
+2013-07-30,lettuce,2
+2013-07-30,summer squash,31
+2013-07-30,cucumbers,2
+2013-07-30,tomatoes,1
+2013-07-30,beets,2
+2013-07-30,zucchini,4
+2013-07-30,chard,6
+2013-07-30,kale,4
+2013-07-30,basil,0.5
+2013-07-30,beets,1
+2013-07-30,green beans,1
+2013-08-03,zucchini,5
+2013-08-03,kale,1
+2013-08-06,chard,29
+2013-08-06,kale,6.5
+2013-08-06,collards,5
+2013-08-06,beets,12
+2013-08-06,zucchini,9
+2013-08-06,kale,6
+2013-08-06,tomatoes,1
+2013-08-07,zucchini,1
+2013-08-07,green beans,0.5
+2013-08-07,rhubarb,2.5
+2013-08-10,summer squash,9.5
+2013-08-10,tomatoes,0.5
+2013-08-10,chard,3
+2013-08-10,kale,3
+2013-08-10,zucchini,5
+2013-08-10,tomatoes,0.5
+2013-08-10,green beans,0.5
+2013-08-10,beets,7
+2013-08-13,tomatoes,3
+2013-08-13,zucchini,7
+2013-08-13,kale,2
+2013-08-13,green beans,2
+2013-08-13,basil,1.5
+2013-08-13,herbs,1
+2013-08-13,collards,1
+2013-08-13,chard,4
+2013-08-13,herbs,2
+2013-08-17,zucchini,3.5
+2013-08-20,zucchini,0.5
+2013-08-20,kale,4
+2013-08-20,tomatoes,11.5
+2013-08-20,zucchini,31
+2013-08-20,chard,2
+2013-08-20,kale,4.5
+2013-08-20,green beans,4.5
+2013-08-20,chard,9.5
+2013-08-20,beets,6
+2013-08-25,summer squash,4
+2013-08-25,chard,1
+2013-08-25,zucchini,4
+2013-08-25,tomatoes,1
+2013-08-25,beets,13.5
+2013-08-27,kale,2
+2013-08-27,basil,0.5
+2013-08-27,peas,0.5
+2013-08-27,summer squash,3
+2013-08-27,chard,2
+2013-08-27,green beans,2.5
+2013-08-27,basil,1.5
+2013-08-27,tomatoes,4.5
+2013-08-27,zucchini,32
+2013-08-27,collards,3
+2013-08-27,kale,1.5
+2013-08-27,chard,6
+2013-08-27,green beans,5
+2013-08-27,tomatoes,17
+2013-08-27,onions,0.5
+2013-09-07,green beans,9
+2013-09-07,summer squash,28
+2013-09-09,tomatoes,3.5
+2013-09-09,chard,2
+2013-09-09,basil,0.5
+2013-09-09,beets,4.5
+2013-09-10,tomatoes,12.5
+2013-09-10,tomatoes,23
+2013-09-10,zucchini,7
+2013-09-10,tomatoes,2.5
+2013-09-10,green beans,3.5
+2013-09-10,tomatoes,2.5
+2013-09-10,chard,12.5
+2013-09-10,kale,8
+2013-09-10,tomatoes,3
+2013-09-10,chard,0.5
+2013-09-10,basil,0.5
+2013-09-10,collards,3
+2013-09-10,beets,9
+2013-09-10,zucchini,1
+2013-09-10,kale,5
+2013-09-10,chard,8
+2013-09-10,green beans,11.5
+2013-09-10,chard,10
+2013-09-10,kale,4.5
+2013-09-10,beets,2
+2013-09-10,green beans,10
+2013-09-10,tomatoes,5
+2013-09-10,chard,1
+2013-09-17,tomatoes,32.5
+2013-09-17,beets,9.5
+2013-09-17,chard,2.5
+2013-09-17,kale,1.5
+2013-09-17,green beans,18.5
+2013-09-21,tomatoes,3.5
+2013-09-22,green beans,1.5
+2013-09-24,collards,3.5
+2013-09-24,chard,6.5
+2013-09-24,green beans,6
+2013-09-24,basil,0.5
+2013-09-24,kale,3.5
+2013-09-24,"tomatoes, green",12
+2013-09-24,tomatoes,31
+2013-09-24,chard,6
+2013-09-24,kale,2
+2013-09-28,lettuce,7
+2013-09-28,chard,4
+2013-09-28,kale,2
+2013-10-01,spaghetti squash,18
+2013-10-05,spaghetti squash,18
+2013-10-08,spaghetti squash,18
+2013-10-08,lettuce,19
+2013-10-08,beets,19
+2013-10-08,beets,10
+2013-10-08,kale,1
+2013-10-08,chard,1
+2013-10-08,chard,6
+2013-10-14,chard,3.5
+2013-10-14,lettuce,3
+2013-10-14,chard,2
+2013-10-15,lettuce,18
+2013-10-15,green beans,1
+2013-10-15,kale,5
+2013-10-15,beets,11
+2013-10-15,chard,11
+2013-10-15,collards,3
+2013-10-15,kale,3
+2013-10-15,chard,2
+2013-10-15,kale,2
+2013-11-13,pumpkins,60

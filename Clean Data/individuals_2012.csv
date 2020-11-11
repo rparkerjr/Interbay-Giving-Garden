@@ -1,0 +1,367 @@
+date,produce,gardener,weight
+2012-04-17,kale,dave smead,38.5
+2012-04-17,chard,dave smead,5
+2012-04-17,kale,denise read,5
+2012-05-01,chard,anon,13
+2012-05-01,chard,block c,8
+2012-05-01,kale,block c,2.5
+2012-05-07,lettuce,block c,8
+2012-05-08,chard,patty allen,14.5
+2012-06-03,lettuce,marcia wagoner,4
+2012-06-05,lettuce,marcia wagoner,8
+2012-06-05,greens,hirsch,3
+2012-06-05,radish,al and byron,19
+2012-06-08,leeks,mary mills,3
+2012-06-09,rhubarb,flor m,8
+2012-06-09,greens,anon,2
+2012-06-12,arugula,t nicola,1
+2012-06-12,rhubarb,bruce schoonmaker,11
+2012-06-15,scallions,block c,3
+2012-06-21,romaine,al and byron,14
+2012-06-25,rhubarb,erica jamir,3
+2012-06-25,lettuce,jean daley,2.5
+2012-06-26,romaine,al and byron,35
+2012-06-26,fava beans,dave smead,27
+2012-06-26,greens,dave smead,3.5
+2012-06-28,lettuce,ray schutte,2
+2012-06-30,swiss chard,j rothburn,2.5
+2012-06-30,lettuce,j rothburn,1
+2012-06-30,spinach,j rothburn,2
+2012-06-30,chard,marcia wagoner,1
+2012-06-30,carrots,marcia wagoner,1
+2012-06-30,beets,marcia wagoner,3
+2012-06-30,herbs,marcia wagoner,0.5
+2012-06-30,peas,carol goodall,1
+2012-06-30,lettuce,carol goodall,3
+2012-06-30,lettuce,erica jamir,3.5
+2012-06-30,radish,anon,2
+2012-07-03,romaine,al and byron,41
+2012-07-03,lettuce,carolyn alcorn,2
+2012-07-03,artichokes,carolyn alcorn,2
+2012-07-03,peas,carolyn alcorn,0.5
+2012-07-03,lettuce,carolyn alcorn,1.5
+2012-07-03,strawberries,carolyn alcorn,2
+2012-07-07,chard,dee hirsch,3.5
+2012-07-07,onions,marcia wagoner,1
+2012-07-07,carrots,marcia wagoner,0.5
+2012-07-07,rhubarb,marcia wagoner,1.5
+2012-07-07,beets,marcia wagoner,3
+2012-07-07,greens,marcia wagoner,1
+2012-07-09,fava beans,dave smead,16
+2012-07-10,romaine,al and byron,41
+2012-07-10,lettuce,david branch,8.5
+2012-07-10,kale,ann tamura,4
+2012-07-10,mint,ann tamura,2
+2012-07-10,beets,marion,3.5
+2012-07-10,kale,marion,2.5
+2012-07-10,lettuce,marion,5
+2012-07-10,lettuce,carolyn alcorn,1
+2012-07-10,rhubarb,carolyn alcorn,6
+2012-07-10,snow peas,marcia wagoner,0.5
+2012-07-14,lettuce,ray schutte,1
+2012-07-14,zucchini,jean unger,4
+2012-07-14,lettuce,jean unger,3.5
+2012-07-14,lettuce,snyder,0.5
+2012-07-14,peas,snyder,0.5
+2012-07-14,chard,bruce hubbard,4
+2012-07-15,chard,david herrick,1
+2012-07-15,lettuce,t nicola,5
+2012-07-15,zucchini,anon,6.5
+2012-07-16,mustard greens,karen whitner,1.5
+2012-07-17,romaine,al and byron,94
+2012-07-17,lettuce,mary mills,8
+2012-07-17,kale,mollie wirtz,9.5
+2012-07-17,mustard greens,karen whitner,2
+2012-07-17,parsley,jude berman,1.5
+2012-07-17,basil,ann tamura,1.5
+2012-07-17,rhubarb,deb rock,14
+2012-07-17,beets,susan harris,8
+2012-07-17,rhubarb,susan harris,8
+2012-07-21,zucchini,charters,1
+2012-07-21,kale,ann tamura,1
+2012-07-21,snow peas,ann tamura,1
+2012-07-21,lettuce,carolyn alcorn,2
+2012-07-21,zucchini,charters,7
+2012-07-21,lettuce,ray schutte,2.5
+2012-07-21,lettuce,jean unger,1
+2012-07-22,chard,dee hirsch,1
+2012-07-24,chard,jude berman,1.5
+2012-07-24,kale,jude berman,1.5
+2012-07-24,lettuce,jean unger,8.5
+2012-07-24,romaine,al and byron,15
+2012-07-24,green beans,kevin stacey,1
+2012-07-24,zucchini,kevin stacey,4
+2012-07-24,kale,mervi leino,1
+2012-07-24,kale,mollie wirtz,3
+2012-07-24,peas,ann tamura,2
+2012-07-24,kale,dial,3
+2012-07-24,potatoes,anon,6
+2012-07-28,chard,hirsch,5
+2012-07-28,snow peas,ann tamura,1
+2012-07-28,zucchini,merna karp,5
+2012-07-28,celery,mark sebring,4
+2012-07-30,lettuce,t nicola,3.5
+2012-07-31,green beans,kevin stacey,2
+2012-07-31,zucchini,kevin stacey,14
+2012-07-31,chard,kevin stacey,1
+2012-07-31,lettuce,mary mills,3.5
+2012-07-31,kale,mollie wirtz,3.5
+2012-07-31,rhubarb,marcia wagoner,25
+2012-07-31,chard,mary mills,3
+2012-07-31,greens,"trina, sally, AJ",10
+2012-07-31,zucchini,mary mills,5
+2012-08-01,greens,snyder,11
+2012-08-01,potatoes,al and byron,10
+2012-08-01,greens,ray schutte,10
+2012-08-01,snow peas,ann tamura,1
+2012-08-01,spinach,ann tamura,0.5
+2012-08-02,rhubarb,marcia wagoner,5
+2012-08-03,summer squash,k killebrew,1
+2012-08-03,peas,ann tamura,0.5
+2012-08-04,chard,dee hirsch,0.5
+2012-08-04,lettuce,jean unger,2
+2012-08-04,zucchini,swee,11.5
+2012-08-04,turnips,tracy,18
+2012-08-05,zucchini,charters,4
+2012-08-05,flowers,snyder,0.5
+2012-08-05,onions,snyder,1
+2012-08-05,zucchini,snyder,0.5
+2012-08-07,lettuce,ray schutte,2
+2012-08-07,squash,jean unger,10
+2012-08-07,lettuce,sundborg,5
+2012-08-07,zucchini,anon,2
+2012-08-07,greens,jude berman,2
+2012-08-07,zucchini,hirsch,7.5
+2012-08-07,greens,ann tamura,5
+2012-08-07,summer squash,susan casey,2
+2012-08-07,potatoes,c zittel,17.5
+2012-08-07,zucchini,tomer hertz,3
+2012-08-07,romaine,c zittel,6
+2012-08-07,spinach,ann tamura,1
+2012-08-07,plums,hirsch,35
+2012-08-07,chard,dave smead,8.5
+2012-08-07,lettuce,carolyn alcorn,1.5
+2012-08-07,zucchini,marcia wagoner,3.5
+2012-08-07,chard,marcia wagoner,2.5
+2012-08-07,zucchini,anon,4
+2012-08-07,rhubarb,bruce schoonmaker,15
+2012-08-09,squash,k killebrew,2
+2012-08-11,squash,ray schutte,1
+2012-08-11,lettuce,ray schutte,3
+2012-08-12,beets,nick cullen,2.5
+2012-08-12,onions,nick cullen,3.5
+2012-08-12,beets,nick cullen,1.5
+2012-08-12,onions,nick cullen,1
+2012-08-12,zucchini,joan clinkston,5
+2012-08-12,green beans,joan clinkston,3
+2012-08-14,plums,hirsch,36
+2012-08-14,chard,hirsch,11
+2012-08-14,pears,hirsch,34
+2012-08-14,kale,jude berman,1
+2012-08-14,chard,jude berman,1
+2012-08-14,lettuce,jude berman,1
+2012-08-14,zucchini,jude berman,1.5
+2012-08-14,chard,ann and emilio,1
+2012-08-14,lettuce,joan milin,1
+2012-08-14,summer squash,susan casey,6
+2012-08-14,rhubarb,patricia jacobsen,2
+2012-08-14,green beans,patricia jacobsen,0.5
+2012-08-14,chard,jean unger,3
+2012-08-14,green beans,carole bianquis,1
+2012-08-14,lettuce,carole bianquis,3
+2012-08-14,basil,ann tamura,1
+2012-08-14,greens,mervi leino,3
+2012-08-14,beets,mervi leino,7
+2012-08-14,kale,mollie wirtz,2
+2012-08-14,chard,mary mills,2
+2012-08-14,beets,mary mills,4
+2012-08-14,rhubarb,mary mills,9
+2012-08-14,chard,dial,1
+2012-08-14,green beans,dial,1
+2012-08-15,zucchini,jean daley,8.5
+2012-08-18,zucchini,jan forquer,17
+2012-08-18,zucchini,charters,20
+2012-08-19,potatoes,howard langenveld,15.5
+2012-08-19,zucchini,snyder,3
+2012-08-20,summer squash,bruce swee,5
+2012-08-20,cucumber,karen whitner,0.5
+2012-08-21,squash,jean unger,2
+2012-08-21,apples,ray schutte,2
+2012-08-21,zucchini,merna karp,0.5
+2012-08-21,zucchini,charlie weems,3
+2012-08-21,zucchini,anon,2
+2012-08-21,chard,jan forquer,4.5
+2012-08-21,green beans,patricia jacobsen,2
+2012-08-21,basil,patricia jacobsen,0.5
+2012-08-21,chard,patricia jacobsen,1
+2012-08-21,rhubarb,patricia jacobsen,0.5
+2012-08-21,kale,carolyn alcorn,4
+2012-08-21,tomatoes,carole bianquis,0.5
+2012-08-21,lettuce,carole bianquis,0.5
+2012-08-21,lettuce,kim prohaska,1
+2012-08-21,mint,regina anderson,1
+2012-08-21,rhubarb,regina anderson,4.5
+2012-08-21,zucchini,regina anderson,3
+2012-08-21,green beans,regina anderson,1.5
+2012-08-21,green beans,dial,2
+2012-08-23,zucchini,david branch,13
+2012-08-24,zucchini,merna karp,0.5
+2012-08-27,rhubarb,t nicola,2.5
+2012-08-27,green beans,t nicola,1
+2012-08-27,lettuce,t nicola,1.5
+2012-08-27,onions,t nicola,1
+2012-08-28,plums,hirsch,159
+2012-08-28,squash,blackstock,5
+2012-08-28,onions,block c,4
+2012-08-28,greens,ann tamura,5
+2012-08-28,kale,jude berman,2
+2012-08-28,tomatoes,regina anderson,1
+2012-08-28,green beans,regina anderson,0.5
+2012-08-28,zucchini,brooke,2
+2012-08-29,summer squash,swee,18.5
+2012-09-01,squash,mary mills,6
+2012-09-01,green beans,t nicola,1.5
+2012-09-01,beets,ann tamura,2
+2012-09-01,squash,ann tamura,1
+2012-09-01,chard,mary mills,3
+2012-09-01,squash,mary mills,4
+2012-09-02,summer squash,swee,11
+2012-09-03,kale,mervi leino,2
+2012-09-04,summer squash,o'hara,18
+2012-09-04,summer squash,jude berman,2.5
+2012-09-04,spinach,erik gulmann,1
+2012-09-04,basil,erik gulmann,0.5
+2012-09-04,tomatoes,erik gulmann,0.5
+2012-09-04,summer squash,denise read,1
+2012-09-04,summer squash,marcia wagoner,5
+2012-09-04,greens,ann tamura,4
+2012-09-06,summer squash,flor,4
+2012-09-07,chard,hirsch,9
+2012-09-07,zucchini,hirsch,14
+2012-09-07,squash,anon,14
+2012-09-08,beets,dee hirsch,4
+2012-09-08,green beans,t nicola,0.5
+2012-09-08,tomatoes,t nicola,1
+2012-09-08,tomatoes,ann tamura,3.5
+2012-09-08,basil,ann tamura,0.5
+2012-09-08,squash,merna karp,0.5
+2012-09-08,cucumber,block c,1.5
+2012-09-08,zucchini,o'hara,19
+2012-09-08,green beans,o'hara,5
+2012-09-08,tomatoes,o'hara,1
+2012-09-10,squash,swee,6
+2012-09-10,squash,anon,12
+2012-09-11,plums,ann,10
+2012-09-11,kale,jude berman,2
+2012-09-11,chard,jude berman,1
+2012-09-11,squash,ann tamura,1.5
+2012-09-11,zucchini,barry,1.5
+2012-09-11,squash,charlie weems,12.5
+2012-09-11,basil,charlie weems,0.5
+2012-09-11,tomatoes,ann tamura,1
+2012-09-15,green beans,anne magruder,1
+2012-09-15,tomatoes,erik gulmann,5
+2012-09-15,lettuce,jean unger,1
+2012-09-15,lettuce,t nicola,0.5
+2012-09-15,cucumber,t nicola,1
+2012-09-15,green beans,t nicola,0.5
+2012-09-15,kale,ann tamura,1
+2012-09-15,beets,blackstock,2
+2012-09-15,green beans,o'hara,5
+2012-09-15,green beans,blackstock,2
+2012-09-18,summer squash,swee,12
+2012-09-18,peppers,LeBrun,4
+2012-09-18,kale,anon,4
+2012-09-18,zucchini,anon,2.5
+2012-09-18,chard,"bergess, hubbard",6.5
+2012-09-18,zucchini,joan clinkston,2
+2012-09-18,cucumber,joan clinkston,1
+2012-09-18,zucchini,bergess,11.5
+2012-09-18,rhubarb,marcia wagoner,7
+2012-09-18,zucchini,barry,2
+2012-09-18,lettuce,ann tamura,0.5
+2012-09-18,tomatoes,ann tamura,1
+2012-09-18,squash,ann tamura,2
+2012-09-22,zucchini,p conley,1
+2012-09-22,tomatoes,p conley,3
+2012-09-22,tomatoes,ray schutte,2
+2012-09-22,tomatoes,marcia wagoner,1.5
+2012-09-22,summer squash,marcia wagoner,1
+2012-09-22,chard,marcia wagoner,2
+2012-09-22,kale,jude berman,1.5
+2012-09-22,broccoli,ray schutte,0.5
+2012-09-22,winter squash,andrea sciaudone,3.5
+2012-09-22,summer squash,jean unger,4
+2012-09-22,greens,jean unger,1
+2012-09-22,tomatoes,jean unger,9.5
+2012-09-22,green beans,t nicola,1.5
+2012-09-22,green beans,o'hara,5
+2012-09-25,plums,andrea sciaudone,21.5
+2012-09-25,tomatoes,LeBrun,6
+2012-09-25,peppers,LeBrun,1
+2012-09-25,zucchini,LeBrun,1.5
+2012-09-25,kale,patty allen,5.5
+2012-09-25,tomatoes,jean daley,5
+2012-09-25,chard,hirsch,5
+2012-09-25,squash,dave smead,3.5
+2012-09-25,parsley,sundborg,1
+2012-09-25,summer squash,mary mills,5
+2012-09-25,tomatoes,barry,1
+2012-09-25,chard,deb rock,5
+2012-09-25,kale,deb rock,3
+2012-09-25,rhubarb,marcia wagoner,29
+2012-09-25,tomatoes,anon,2
+2012-09-25,kale,leslie,8
+2012-09-25,chard,mary mills,3
+2012-09-25,greens,"jude, deb, ray",7.5
+2012-09-25,kale,carolyn alcorn,1.5
+2012-09-25,kale,anon,7
+2012-09-25,kale,anon,6
+2012-09-25,tomatoes,donna kalka,6
+2012-09-25,tomatoes,mary mills,1
+2012-09-25,tomatoes,anon,13
+2012-09-25,green beans,anon,2
+2012-09-25,zucchini,anon,13
+2012-09-25,rhubarb,donna kalka,4
+2012-09-25,lettuce,anon,2
+2012-09-29,apples,hirsch,28
+2012-09-29,tomatoes,ann tamura,19
+2012-09-29,chard,ann tamura,4
+2012-09-29,squash,mary mills,7
+2012-09-29,chard,deb rock,1
+2012-10-01,chard,ann l,1
+2012-10-02,chard,howard langenveld,4
+2012-10-02,tomatoes,ann tamura,15
+2012-10-02,kale,ann tamura,2
+2012-10-02,tomatoes,dave smead,3
+2012-10-02,squash,dave smead,4
+2012-10-02,tomatoes,ray schutte,37
+2012-10-02,green beans,ray schutte,4
+2012-10-02,chard,charlie cornish,9.5
+2012-10-02,green beans,charlie cornish,2
+2012-10-02,squash,charlie cornish,9
+2012-10-02,green beans,anon,1
+2012-10-04,tomatoes,jean unger,5
+2012-10-04,green beans,o'hara,2
+2012-10-09,tomatoes,deb rock,5
+2012-10-09,squash,blackstock,3
+2012-10-09,squash,ann tamura,3
+2012-10-09,lettuce,ann tamura,0.5
+2012-10-09,herbs,ann tamura,0.5
+2012-10-09,tomatoes,ray schutte,5
+2012-10-09,peaches,marcia wagoner,25
+2012-10-10,tomatoes,d sico,6
+2012-10-10,beets,d sico,3
+2012-10-10,tomatoes,ann tamura,7
+2012-10-10,pumpkin,d sico,2
+2012-10-16,tomatoes,jean unger,23
+2012-10-16,tomatoes,ann tamura,4
+2012-10-16,peaches,mary mills,20
+2012-10-16,tomatoes,jean unger,4
+2012-10-20,chard,jean unger,1
+2012-10-23,squash,david branch,5
+2012-10-23,squash,anon,4.5
+2012-10-25,tomatoes,erik gulmann,3
+2012-10-25,greens,anne magruder,1
+2012-10-25,tomatoes,anon,10
+2012-10-30,quince,anon,6

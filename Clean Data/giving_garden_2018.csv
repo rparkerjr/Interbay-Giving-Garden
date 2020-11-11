@@ -1,0 +1,159 @@
+date,produce,weight
+2018-05-21,chard,1
+2018-05-21,lettuce,15
+2018-06-04,artichokes,4.5
+2018-06-04,strawberries,0.5
+2018-06-04,chard,12.5
+2018-06-04,lettuce,44
+2018-06-04,radishes,6.5
+2018-06-04,red radishes,1.5
+2018-06-11,radishes,5
+2018-06-11,lettuce,9
+2018-06-11,chard,2.5
+2018-06-11,kale,4
+2018-06-11,oregano,0.5
+2018-06-18,kale,3.5
+2018-06-18,lettuce,16.5
+2018-06-18,chard,2
+2018-06-18,beets,5
+2018-06-18,daikon radish,12
+2018-06-25,kale,4.5
+2018-06-25,daikon radish,3
+2018-06-25,lettuce,4
+2018-06-25,beets,5.5
+2018-06-25,berries,0.5
+2018-06-25,collards,2
+2018-06-25,chard,3.5
+2018-07-02,fruit,106
+2018-07-02,lettuce,10
+2018-07-02,peas,0.5
+2018-07-02,kale,4
+2018-07-02,collards,2
+2018-07-02,onions,22
+2018-07-02,blueberries,0.5
+2018-07-02,chard,3
+2018-07-02,beets,3
+2018-07-07,collards,12
+2018-07-09,chard,2.75
+2018-07-09,leeks,3
+2018-07-09,beets,9.5
+2018-07-09,lettuce,2
+2018-07-09,onions,21.5
+2018-07-09,beans,3
+2018-07-09,collards,2
+2018-07-09,cucumbers,9.5
+2018-07-09,kale,1
+2018-07-16,chard,6.25
+2018-07-16,zucchini,2.5
+2018-07-16,beets,22
+2018-07-16,green beans,7.5
+2018-07-16,kale,4.5
+2018-07-16,basil,0.5
+2018-07-16,cucumbers,4.5
+2018-07-23,cucumbers,36.5
+2018-07-23,onions,8.5
+2018-07-23,zucchini,6.5
+2018-07-23,chard,3.5
+2018-07-23,kale,4
+2018-07-23,collards,4.5
+2018-07-23,basil,1
+2018-07-23,beets,16
+2018-07-23,green beans,9.5
+2018-07-23,potatoes,1
+2018-07-23,green onions,1.5
+2018-07-30,kale,6.5
+2018-07-30,chard,3.5
+2018-07-30,squash,14.5
+2018-07-30,cucumbers,18
+2018-07-30,green beans,1
+2018-07-30,basil,0.5
+2018-07-30,collards,3.5
+2018-07-30,lettuce,1
+2018-07-30,bush beans,6.5
+2018-07-30,zucchini,2.5
+2018-07-30,onions,3
+2018-07-30,beets,5.5
+2018-08-06,zucchini,14.5
+2018-08-06,lettuce,6.5
+2018-08-06,collards,5
+2018-08-06,kale,7
+2018-08-06,onions,5
+2018-08-06,beets,4.5
+2018-08-06,chard,2
+2018-08-06,green beans,7.5
+2018-08-06,potatoes,3.5
+2018-08-06,cucumbers,10.5
+2018-08-13,zucchini,32.5
+2018-08-13,kale,12.5
+2018-08-13,chard,1.5
+2018-08-13,collards,1.5
+2018-08-13,cucumbers,6
+2018-08-13,green beans,9.5
+2018-08-13,beets,11.5
+2018-08-13,herbs,1
+2018-08-13,tomatoes,3
+2018-08-13,artichokes,0.25
+2018-08-13,strawberries,0.25
+2018-08-20,zucchini,22.5
+2018-08-20,green beans,2
+2018-08-20,collards,1
+2018-08-20,chard,1
+2018-08-20,lettuce,1.5
+2018-08-20,beets,4.5
+2018-08-20,cucumbers,5
+2018-08-20,tomatoes,4.5
+2018-08-20,basil,1
+2018-08-27,squash,26.5
+2018-08-27,onions,18
+2018-08-27,zucchini,38.5
+2018-08-27,beets,4.5
+2018-08-27,lettuce,5
+2018-08-27,kale,5
+2018-08-27,chard,5.5
+2018-08-27,green beans,6.5
+2018-08-27,herbs,0.5
+2018-08-27,cucumbers,2.5
+2018-08-27,tomatoes,3.5
+2018-09-03,lettuce,5.5
+2018-09-03,chard,6
+2018-09-03,kale,7.5
+2018-09-03,squash,30.5
+2018-09-03,rhubarb,1.5
+2018-09-03,beets,2
+2018-09-03,tomatoes,8.5
+2018-09-03,green beans,7
+2018-09-03,onions,8.5
+2018-09-10,zucchini,11.5
+2018-09-10,beets,8.5
+2018-09-10,tomatoes,14
+2018-09-10,lettuce,2
+2018-09-10,collards,2
+2018-09-10,chard,2.75
+2018-09-10,cucumbers,2
+2018-09-10,green beans,10.5
+2018-09-10,basil,1
+2018-09-10,parsley,0.5
+2018-09-17,squash,24
+2018-09-17,basil,1.5
+2018-09-17,green beans,11
+2018-09-17,kale,11.75
+2018-09-17,rosemary,0.5
+2018-09-17,beets,12.5
+2018-09-17,tomatoes,12.25
+2018-09-17,lettuce,1
+2018-09-23,cucumbers,3
+2018-09-23,squash,2
+2018-09-24,green beans,4.5
+2018-09-24,tomatoes,11.5
+2018-09-24,zucchini,34.5
+2018-09-24,collards,2
+2018-09-24,chard,7
+2018-09-24,beets,9
+2018-10-01,zucchini,7
+2018-10-01,squash,10
+2018-10-01,chard,6
+2018-10-01,beets,4
+2018-10-01,tomatoes,5
+2018-10-08,zucchini,4
+2018-10-08,tomatoes,3
+2018-10-08,chard,6

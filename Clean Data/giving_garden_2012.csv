@@ -1,0 +1,241 @@
+date,produce,weight
+2012-02-02,greens,17
+2012-04-17,kale,96
+2012-04-17,chard,15
+2012-04-24,greens,4.5
+2012-04-24,potatoes,5
+2012-05-01,chard,4.5
+2012-05-08,chard,21.5
+2012-05-15,chard,18.5
+2012-05-19,lettuce,7
+2012-05-29,lettuce,85.5
+2012-06-02,lettuce,9
+2012-06-02,greens,3
+2012-06-04,lettuce,3
+2012-06-04,radish,2
+2012-06-05,lettuce,38
+2012-06-05,lettuce,14.5
+2012-06-09,lettuce,9
+2012-06-09,greens,1
+2012-06-12,lettuce,136
+2012-06-12,radish,2.5
+2012-06-12,greens,1.5
+2012-06-12,lettuce,67
+2012-06-20,lettuce,21
+2012-06-18,lettuce,17
+2012-06-19,lettuce,30
+2012-06-19,greens,34.5
+2012-06-19,lettuce,64
+2012-06-23,lettuce,4
+2012-06-23,chard,2.5
+2012-06-23,collards,3
+2012-06-24,lettuce,2.5
+2012-06-24,greens,12.5
+2012-06-26,chard,3.5
+2012-06-26,collards,8.5
+2012-06-26,lettuce,5.5
+2012-06-26,chard,14
+2012-06-26,lettuce,7
+2012-06-26,garlic,3
+2012-06-26,lettuce,31
+2012-07-03,onions,5
+2012-07-03,collards,5.5
+2012-07-03,chard,11
+2012-07-03,kale,9
+2012-07-09,lettuce,4
+2012-07-09,beets,3
+2012-07-09,kale,1.5
+2012-07-09,chard,1.5
+2012-07-10,lettuce,51
+2012-07-10,chard,10.5
+2012-07-10,kale,4
+2012-07-10,potatoes,12
+2012-07-10,summer squash,1.5
+2012-07-14,summer squash,5.5
+2012-07-14,collards,4.5
+2012-07-14,rhubarb,2.5
+2012-07-16,chard,0.5
+2012-07-16,kale,0.5
+2012-07-17,lettuce,0.5
+2012-07-17,chard,15
+2012-07-17,summer squash,11.5
+2012-07-17,onions,7.5
+2012-07-17,beets,25
+2012-07-21,summer squash,8
+2012-07-21,collards,1.5
+2012-07-21,lettuce,1
+2012-07-21,beets,5
+2012-07-23,greens,2.5
+2012-07-23,beets,5
+2012-07-23,summer squash,5.5
+2012-07-24,beets,47
+2012-07-24,greens,11
+2012-07-24,kale,10
+2012-07-24,green beans,4
+2012-07-24,summer squash,7
+2012-07-24,herbs,5
+2012-07-24,potatoes,14
+2012-07-30,summer squash,9
+2012-07-30,green beans,3
+2012-07-30,beets,5
+2012-07-31,green beans,7
+2012-07-31,onions,28
+2012-07-31,chard,7.5
+2012-07-31,beets,34.5
+2012-07-31,kale,2.5
+2012-07-31,summer squash,25.5
+2012-07-31,chard,6
+2012-07-31,greens,2.5
+2012-08-06,beets,7
+2012-08-06,onions,3
+2012-08-06,zucchini,6
+2012-08-06,chard,1.5
+2012-08-06,kale,1
+2012-08-07,beets,64
+2012-08-07,summer squash,37
+2012-08-07,lettuce,1.5
+2012-08-07,chard,14.5
+2012-08-07,kale,3.5
+2012-08-07,collards,5
+2012-08-07,greens,5
+2012-08-07,onions,35
+2012-08-07,green beans,26.5
+2012-08-07,onions,16
+2012-08-11,green beans,2
+2012-08-11,chard,1
+2012-08-11,summer squash,9
+2012-08-13,beets,3
+2012-08-13,kale,1
+2012-08-13,chard,1
+2012-08-14,summer squash,19.5
+2012-08-14,cucumbers,1.5
+2012-08-14,chard,9
+2012-08-14,beets,8
+2012-08-14,green beans,14.5
+2012-08-14,lettuce,22
+2012-08-14,broccoli,1.5
+2012-08-14,greens,4
+2012-08-14,summer squash,5
+2012-08-14,kale,7.5
+2012-08-18,summer squash,10.5
+2012-08-18,beets,7
+2012-08-20,summer squash,2.5
+2012-08-20,beets,3
+2012-08-20,green beans,3
+2012-08-20,chard,3
+2012-08-21,beets,25.5
+2012-08-21,basil,0.5
+2012-08-21,summer squash,19.5
+2012-08-21,chard,6.5
+2012-08-21,tomatoes,6.5
+2012-08-21,cucumbers,2.5
+2012-08-21,summer squash,13.5
+2012-08-21,lettuce,7.5
+2012-08-21,green beans,1
+2012-08-21,broccoli,0.5
+2012-08-21,kale,2
+2012-08-27,green beans,4.5
+2012-08-27,squash,6.5
+2012-08-27,tomatoes,1
+2012-08-27,summer squash,4
+2012-08-27,beets,1
+2012-08-27,lettuce,1
+2012-08-27,chard,0.5
+2012-08-28,summer squash,19.5
+2012-08-28,beets,22
+2012-08-28,tomatoes,11
+2012-08-28,broccoli,2
+2012-08-28,kale,1
+2012-08-28,collards,5.5
+2012-08-28,green beans,0.5
+2012-08-28,summer squash,21
+2012-08-28,greens,16
+2012-08-28,tomatoes,2.5
+2012-08-28,potatoes,2.5
+2012-09-01,lettuce,3
+2012-09-01,summer squash,22
+2012-09-01,green beans,1
+2012-09-04,summer squash,37
+2012-09-04,beets,6
+2012-09-04,tomatoes,17
+2012-09-04,chard,5
+2012-09-04,green beans,1.5
+2012-09-04,kale,7.5
+2012-09-04,summer squash,11.5
+2012-09-04,basil,0.5
+2012-09-04,lettuce,5.5
+2012-09-04,chard,5
+2012-09-04,broccoli,1.5
+2012-09-04,collards,3.5
+2012-09-04,lettuce,1.5
+2012-09-04,summer squash,4.5
+2012-09-04,lettuce,4
+2012-09-04,apples,9
+2012-09-10,summer squash,2.5
+2012-09-10,tomatoes,2.5
+2012-09-11,summer squash,53.5
+2012-09-11,tomatoes,13.5
+2012-09-11,lettuce,8
+2012-09-11,greens,9
+2012-09-11,green beans,7.5
+2012-09-11,summer squash,6
+2012-09-11,collards,3
+2012-09-11,broccoli,1
+2012-09-11,summer squash,3
+2012-09-11,beets,8
+2012-09-11,winter squash,21
+2012-09-11,cucumbers,1
+2012-09-13,tomatoes,1
+2012-09-13,potatoes,2
+2012-09-13,cucumbers,1
+2012-09-18,tomatoes,21.5
+2012-09-18,summer squash,38.5
+2012-09-18,lettuce,5
+2012-09-18,broccoli,1
+2012-09-18,green beans,5
+2012-09-18,chard,2.5
+2012-09-18,summer squash,0.5
+2012-09-18,winter squash,28
+2012-09-18,broccoli,2
+2012-09-18,winter squash,16
+2012-09-22,summer squash,1
+2012-09-22,tomatoes,1
+2012-09-24,tomatoes,8.5
+2012-09-24,beets,5.5
+2012-09-25,beets,10
+2012-09-25,summer squash,18
+2012-09-28,summer squash,18.5
+2012-09-28,cucumbers,1.5
+2012-09-28,chard,6
+2012-09-28,broccoli,1
+2012-09-28,green beans,2.5
+2012-09-28,lettuce,7
+2012-09-28,greens,4
+2012-10-02,summer squash,9
+2012-10-02,tomatoes,19
+2012-10-02,kale,3
+2012-10-08,tomatoes,1
+2012-10-08,kale,1.5
+2012-10-08,chard,1.5
+2012-10-08,cucumbers,0.5
+2012-10-08,tomatoes,7
+2012-10-09,lettuce,7
+2012-10-09,chard,4
+2012-10-09,broccoli,0.5
+2012-10-09,summer squash,0.5
+2012-10-09,tomatoes,0.5
+2012-10-09,summer squash,2
+2012-10-09,basil,0.5
+2012-10-16,summer squash,3
+2012-10-16,chard,10
+2012-10-16,kale,14
+2012-10-16,chard,3.5
+2012-10-16,lettuce,3
+2012-10-16,collards,2.5
+2012-10-16,kale,1.5
+2012-10-23,summer squash,0.5
+2012-10-23,chard,1
+2012-10-23,lettuce,3.5
+2012-10-30,lettuce,5
+2012-10-30,greens,5
+2012-10-30,kale,5

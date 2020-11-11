@@ -1,0 +1,289 @@
+date,produce,gardener,weight
+2010-03-30,onion greens,dennis moore,7
+2010-03-30,leeks,meghan james,1
+2010-04-13,kale,dave smead,30.5
+2010-04-13,kale,denise read,6
+2010-04-13,broccoli,jude berman,0.5
+2010-04-20,greens,dave smead,13
+2010-04-20,kale,deb rock,1.5
+2010-05-11,herbs,ann tamura,2
+2010-05-13,leeks,katie lewis,2
+2010-05-18,greens,dave smead,11
+2010-05-18,lettuce,jude berman,1
+2010-05-18,lettuce,marcia wagoner,5
+2010-06-01,rhubarb,ann tamura,3.5
+2010-06-01,mint,ann tamura,0.5
+2010-06-05,lettuce,mary mills,2
+2010-06-07,rhubarb,ann tamura,4
+2010-06-08,greens,howard langeveld,3
+2010-06-10,greens,dave smead,11
+2010-06-10,parsley,dianne garcia,2
+2010-06-10,kale,susan harris,1
+2010-06-11,spinach,bill collins,3
+2010-06-12,lettuce,joan clinkston,5.5
+2010-06-12,greens,marcia wagoner,2
+2010-06-12,bok choy,mary mills,2
+2010-06-15,lettuce,browis,14
+2010-06-15,greens,dave smead,8
+2010-06-15,lettuce,eric,3
+2010-06-15,greens,howard langeveld,2.5
+2010-06-15,lettuce,patti bingham,8
+2010-06-15,lettuce,susan harris,7
+2010-06-19,lettuce,blackstock,1
+2010-06-19,lettuce,mary mills,1
+2010-06-19,greens,stephanie snyder,2
+2010-06-19,lettuce,stephanie snyder,0.5
+2010-06-22,herbs,ann tamura,7
+2010-06-22,rhubarb,bruce schoonmaker,10
+2010-06-22,onions,heidi cartmill,4
+2010-06-22,greens,howard langeveld,2.5
+2010-06-22,chard,patti allen,35.5
+2010-06-23,lettuce,aaron stroud-romero,1.5
+2010-06-25,lettuce,erik gulmann,6
+2010-06-25,garlic,stephanie snyder,1
+2010-06-25,lettuce,stephanie snyder,2
+2010-06-27,lettuce,c yarrow,1
+2010-06-27,peas,c yarrow,1
+2010-06-27,collards,patti allen,2
+2010-06-28,radishes,karen whitner,1.5
+2010-06-28,chard,karen whitner,0.5
+2010-06-28,lettuce,karen whitner,1.5
+2010-06-29,mint,ann tamura,1
+2010-06-29,rhubarb,bruce schoonmaker,10
+2010-06-29,beets,donna kalka,6
+2010-06-29,kale,donna kalka,3
+2010-06-29,lettuce,evelyn crichton,2
+2010-06-29,peas,kevin tracey,2.5
+2010-06-30,beets,joan melin,5
+2010-06-30,onions,joan melin,1.5
+2010-06-30,potatoes,joan melin,5.5
+2010-07-03,greens,marcia wagoner,1
+2010-07-03,peas,marcia wagoner,1
+2010-07-06,kale,christine charters,1
+2010-07-06,cilantro,christine charters,0.5
+2010-07-06,greens,dave smead,8.5
+2010-07-06,rhubarb,marcia wagoner,3
+2010-07-06,lettuce,marcia wagoner,1
+2010-07-06,peas,marcia wagoner,3
+2010-07-06,celery,mark sebring,2.5
+2010-07-07,greens,aaron stroud-romero,2
+2010-07-07,greens,regina anderson,4
+2010-07-07,onions,sig johnson,7
+2010-07-07,potatoes,sig johnson,4
+2010-07-13,greens,aaron stroud-romero,6.5
+2010-07-13,chard,bill collins,10
+2010-07-13,collards,c block,3
+2010-07-13,beets,c block,14
+2010-07-13,beets,erik gulmann,17
+2010-07-13,kohlrabi,fred nollan,2
+2010-07-13,zucchini,fred nollan,1
+2010-07-13,lettuce,howard langeveld,1.5
+2010-07-13,beets,howard langeveld,1
+2010-07-13,onions,howard langeveld,3
+2010-07-13,greens,jude berman,6
+2010-07-13,peas,kevin tracey,2
+2010-07-13,peas,marcia wagoner,1
+2010-07-13,lettuce,marcia wagoner,0.5
+2010-07-13,celery,mark sebring,2.5
+2010-07-13,chard,patti allen,18
+2010-07-13,onions,sig johnson,5.5
+2010-07-13,potatoes,sig johnson,7
+2010-07-13,lettuce,?,15
+2010-07-14,lettuce,jean daley,1.5
+2010-07-14,chard,jean daley,1
+2010-07-17,lettuce,swee,2
+2010-07-18,potatoes,hirsch,2.5
+2010-07-18,lettuce,hirsch,1
+2010-07-19,greens,trish nicola,1.5
+2010-07-21,lettuce,ann tamura,12
+2010-07-21,summer squash,byron hook,1.5
+2010-07-21,greens,charlie cornish,2
+2010-07-21,greens,christine charters,3.5
+2010-07-21,potatoes,david trotter,1.5
+2010-07-21,rhubarb,flor maldonado,2
+2010-07-21,lettuce,flor maldonado,17
+2010-07-21,onions,flor maldonado,9
+2010-07-21,kale,heather wiener,6
+2010-07-21,chard,howard langeveld,5
+2010-07-21,zucchini,leslie noson,2
+2010-07-21,chard,leslie noson,2
+2010-07-21,rhubarb,marcia wagoner,3
+2010-07-21,lettuce,marcia wagoner,3
+2010-07-24,lettuce,jean unger,2
+2010-07-24,green onions,jean unger,1
+2010-07-24,greens,jude berman,2
+2010-07-24,zucchini,jude berman,1.5
+2010-07-24,celery,mark sebring,5.5
+2010-07-24,beets,susan harris,1.5
+2010-07-24,rhubarb,susan harris,6
+2010-07-26,plums,al hirsch,4.5
+2010-07-26,beets,katie lewis,2
+2010-07-27,zucchini,ann tamura,2.5
+2010-07-27,rhubarb,ann tamura,2.5
+2010-07-27,chard,c block,6
+2010-07-27,lettuce,carole bianquis,5
+2010-07-27,zucchini,franz and chase,2
+2010-07-27,squash,jean unger,3
+2010-07-27,lettuce,ray schutte,8
+2010-07-27,rhubarb,ray schutte,3
+2010-07-30,romaine,dial,2
+2010-07-30,zucchini,franz and chase,1
+2010-07-30,chard,howard langeveld,15
+2010-07-30,lettuce,jean sundborg,5
+2010-07-30,greens,jude berman,6
+2010-07-30,zucchini,polly conley,2
+2010-08-02,greens,c block,6
+2010-08-02,squash,merna karp,2.5
+2010-08-02,cucumbers,merna karp,1
+2010-08-03,beans,ann tamura,1.5
+2010-08-03,rhubarb,bruce schoonmaker,10.5
+2010-08-03,greens,jude berman,2
+2010-08-03,zucchini,jude berman,3.5
+2010-08-03,chard,marcia wagoner,2
+2010-08-03,rhubarb,marcia wagoner,5
+2010-08-03,chard,patti allen,13.5
+2010-08-03,rhubarb,sig johnson,10
+2010-08-10,beets,c block,14
+2010-08-10,zucchini,franz and chase,4
+2010-08-10,lettuce,jean sundborg,6
+2010-08-10,squash,merna karp,3
+2010-08-11,kale,aaron stroud-romero,1
+2010-08-12,greens,bob scoverski,2.5
+2010-08-14,squash,polly conley,5
+2010-08-14,onions,jean unger,2
+2010-08-14,leeks,mary mills,4
+2010-08-14,chard,mary mills,1
+2010-08-16,lettuce,joan melin,6
+2010-08-17,pears bartlett,al hirsch,52
+2010-08-17,pears anjou,al hirsch,32
+2010-08-17,beans,bob scoverski,6
+2010-08-17,chard,charlie cornish,5.5
+2010-08-17,kale,christine charters,1.5
+2010-08-17,lettuce,david branch,3
+2010-08-17,greens,jude berman,8
+2010-08-17,chard,patti allen,7.5
+2010-08-17,summer squash,susan casey,2
+2010-08-18,kale,aaron stroud-romero,1
+2010-08-19,cucumbers,al hirsch,2
+2010-08-21,pears,al hirsch,10
+2010-08-21,figs,al hirsch,20
+2010-08-21,shallots,c block,1
+2010-08-21,rhubarb,flor maldonado,10
+2010-08-21,beets,jean unger,2
+2010-08-21,chard,marcia wagoner,1
+2010-08-21,beans,mark sebring,2
+2010-08-21,onions,mark sebring,1
+2010-08-21,squash,carosso/shirley,2.5
+2010-08-21,squash,ray schutte,3
+2010-08-22,kale,jean daley,2.5
+2010-08-22,chard,jean daley,1
+2010-08-23,pears,al hirsch,2.5
+2010-08-23,figs,al hirsch,1
+2010-08-24,zucchini,polly conley,1.5
+2010-08-24,zucchini,ann tamura,2.5
+2010-08-24,rhubarb,bruce schoonmaker,9
+2010-08-24,chard,charlie cornish,2
+2010-08-24,rhubarb,flor maldonado,11.5
+2010-08-24,zucchini,jude berman,2.5
+2010-08-24,zucchini,karen whitner,3.5
+2010-08-24,zucchini,leslie noson,0.5
+2010-08-24,beans,mark sebring,1
+2010-08-27,squash,howard langeveld,5
+2010-08-27,chard,howard langeveld,3
+2010-08-27,onions,nick allen,3
+2010-08-28,pears,al hirsch,5
+2010-08-28,zucchini,JRB,10
+2010-08-28,zucchini,jude berman,8
+2010-08-28,zucchini,leslie noson,1
+2010-08-29,tomatoes,c block,2
+2010-08-29,beans,jean sundborg,1
+2010-08-30,squash,ann tamura,4
+2010-08-30,beets,JRB,2
+2010-08-30,summer squash,karen whitner,3.5
+2010-08-30,basil,karen whitner,0.5
+2010-08-30,greens,stephanie snyder,1
+2010-08-30,squash,stephanie snyder,0.5
+2010-08-31,beans,bob scoverski,4
+2010-08-31,summer squash,karen whitner,3
+2010-08-31,kale,leslie noson,2.5
+2010-08-31,squash,susan casey,12
+2010-08-31,beans,susan casey,3
+2010-09-04,squash,polly conley,2.5
+2010-09-05,zucchini,D,3
+2010-09-07,rhubarb,bruce schoonmaker,6
+2010-09-07,kale,leslie noson,1
+2010-09-07,zucchini,millie,11.5
+2010-09-07,chard,patti allen,13
+2010-09-08,tomatoes,aaron stroud-romero,1
+2010-09-09,squash,merna karp,10
+2010-09-10,potatoes,denise read,10
+2010-09-10,rhubarb,machala,7
+2010-09-11,leeks,?,3
+2010-09-11,tomatoes,ann tamura,1
+2010-09-11,squash,ann tamura,1
+2010-09-11,beans,mark sebring,0.5
+2010-09-12,arugula,c,0.5
+2010-09-12,zucchini,regina anderson,3.5
+2010-09-12,tomatoes,regina anderson,2
+2010-09-14,cucumbers,?,2
+2010-09-14,kale,aaron stroud-romero,2
+2010-09-14,squash,ann tamura,1
+2010-09-14,tomatoes,ann tamura,1
+2010-09-14,beets,ann tamura,2
+2010-09-14,beets,jean sundborg,2
+2010-09-14,onions,jean unger,1
+2010-09-14,summer squash,jude berman,2.5
+2010-09-14,cucumbers,jude berman,1.5
+2010-09-14,kale,jude berman,1
+2010-09-14,squash,karen whitner,2.5
+2010-09-14,kale,O'Connor,2.5
+2010-09-14,chard,patti allen,6.5
+2010-09-14,squash,polly conley,2.5
+2010-09-18,kale,anne Van Roden,1.5
+2010-09-18,mint,anne Van Roden,2.5
+2010-09-18,squash,merna karp,7
+2010-09-19,tomatoes,blackstock,10.5
+2010-09-19,cucumbers,blackstock,2.5
+2010-09-19,basil,blackstock,2.5
+2010-09-19,beets,c,5
+2010-09-19,arugula,c,0.5
+2010-09-19,cucumbers,heidi cartmill,1
+2010-09-20,cucumbers,aaron stroud-romero,0.5
+2010-09-20,tomatoes,trish nicola,1
+2010-09-21,beets,ann tamura,2
+2010-09-21,squash,ann tamura,2
+2010-09-21,basil,carolyn alcorn,0.5
+2010-09-21,rhubarb,carolyn alcorn,4.5
+2010-09-21,chard,charlie cornish,14
+2010-09-21,squash,dave smead,3
+2010-09-21,cucumbers,dave smead,3
+2010-09-21,zucchini,fred nollan,20
+2010-09-21,kale,jude berman,2
+2010-09-21,kale,mary mills,2
+2010-09-21,summer squash,stephanie snyder,1.5
+2010-09-21,beans,stephanie snyder,1
+2010-09-21,kale,stephanie snyder,0.5
+2010-09-24,squash,karen whitner,2.5
+2010-09-24,squash,merna karp,3
+2010-09-28,romaine,al hirsch,6
+2010-09-28,tomatoes,ann tamura,2
+2010-09-28,zucchini,ann tamura,3
+2010-09-28,kale,christine charters,5
+2010-09-28,mint,christine charters,1
+2010-09-28,squash,dave smead,2
+2010-09-28,greens,dave smead,12
+2010-09-28,squash,jean weinhold,1
+2010-09-28,zucchini,katie lewis,2
+2010-09-28,chard,patti allen,13.5
+2010-09-28,arugula,patti allen,0.5
+2010-09-28,kale,patti allen,0.5
+2010-09-28,parsnips,rick ,1.5
+2010-09-28,beans,stephanie snyder,1
+2010-09-28,cucumbers,susan harris,6
+2010-10-02,tomatoes,c,13
+2010-10-02,squash,karen whitner,3
+2010-10-02,chard,patti allen,2
+2010-09-21,beets,katie lewis,5
+2010-09-21,tomatoes,marcia wagoner,5
+2010-09-21,beans,marcia wagoner,2
+2010-09-21,chard,marcia wagoner,3

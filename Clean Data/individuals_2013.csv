@@ -1,0 +1,379 @@
+date,produce,gardener,weight
+2013-06-21,lettuce,Al Hirsch for Byron Hook,39
+2013-06-21,lettuce,Al Hirsch for Byron Hook,53
+2013-06-29,lettuce,Al Hirsch for Byron Hook,22
+2013-07-02,lettuce,Al Hirsch for Byron Hook,8
+2013-07-09,lettuce,Al Hirsch for Byron Hook,10
+2013-04-30,chard,Alice & Stan Burgess,11.5
+2013-05-07,chard,Ann Levine,2
+2013-06-29,fava beans,Ann Levine,2
+2013-06-21,herbs,Ann Tamura,1
+2013-06-25,rhubarb,Ann Tamura,1
+2013-07-09,kale,Ann Tamura,1
+2013-07-09,basil,Ann Tamura,1
+2013-07-13,beets,Ann Tamura,1.5
+2013-07-13,lettuce,Ann Tamura,1
+2013-07-16,lettuce,Ann Tamura,1.5
+2013-07-16,basil,Ann Tamura,0.5
+2013-07-30,beans,Ann Tamura,0.5
+2013-07-30,beets,Ann Tamura,0.5
+2013-08-06,peppers,Ann Tamura,0.5
+2013-08-06,beans,Ann Tamura,0.5
+2013-08-06,cucumbers,Ann Tamura,2
+2013-08-10,beans,Ann Tamura,2
+2013-08-10,lettuce,Ann Tamura,4
+2013-08-12,cucumbers,Ann Tamura,0.5
+2013-08-12,peppers,Ann Tamura,0.5
+2013-08-12,beets,Ann Tamura,4
+2013-08-12,peppers,Ann Tamura,1
+2013-08-17,lettuce,Ann Tamura,4
+2013-08-17,beans,Ann Tamura,3
+2013-08-17,peppers,Ann Tamura,1
+2013-08-23,beans,Ann Tamura,1
+2013-08-23,cucumbers,Ann Tamura,1
+2013-08-23,peppers,Ann Tamura,1
+2013-08-23,basil,Ann Tamura,0.5
+2013-08-31,tomatoes,Ann Tamura,1
+2013-08-31,cucumbers,Ann Tamura,2
+2013-08-31,summer squash,Ann Tamura,3
+2013-09-07,beans,Ann Tamura,1
+2013-09-07,cucumbers,Ann Tamura,4
+2013-09-07,tomatoes,Ann Tamura,2
+2013-09-07,peppers,Ann Tamura,1
+2013-09-09,beets,Ann Tamura,14
+2013-09-09,peppers,Ann Tamura,1
+2013-09-09,tomatoes,Ann Tamura,2
+2013-09-12,cucumbers,Ann Tamura,3
+2013-09-12,tomatoes,Ann Tamura,3
+2013-09-12,greens,Ann Tamura,3
+2013-09-14,eggplant,Ann Tamura,2
+2013-09-21,cucumbers,Ann Tamura,1.5
+2013-04-17,kale,anon,1
+2013-04-17,lettuce,anon,2
+2013-04-17,parsley,anon,0.5
+2013-06-11,arugula,anon,3.5
+2013-07-02,lettuce,anon,6
+2013-07-02,radishes,anon,1
+2013-07-27,peas,anon,0.5
+2013-07-28,summer squash,anon,1
+2013-07-28,basil,anon,0.5
+2013-07-28,squash,anon,3.5
+2013-08-04,chard,anon,0.5
+2013-08-06,beets,anon,4
+2013-10-05,tomatoes,anon,7
+2013-10-05,cucumbers,anon,1
+2013-10-21,winter squash,anon,5
+2013-10-21,collards,anon,2
+2013-07-14,herbs,Barbara LeBrun,1
+2013-07-21,peppers,Barbara LeBrun,0.5
+2013-08-11,beans,Barbara LeBrun,1
+2013-08-11,carrots,Barbara LeBrun,1.5
+2013-08-11,peppers,Barbara LeBrun,0.5
+2013-08-17,beans,Barbara LeBrun,0.5
+2013-08-23,peppers,Barbara LeBrun,0.5
+2013-08-23,beans,Barbara LeBrun,0.5
+2013-08-31,onions,Barbara LeBrun,1
+2013-08-31,tomatoes,Barbara LeBrun,1
+2013-08-31,beans,Barbara LeBrun,0.5
+2013-09-08,tomatoes,Barbara LeBrun,2
+2013-09-08,beans,Barbara LeBrun,1
+2013-09-15,beans,Barbara LeBrun,1
+2013-09-15,tomatoes,Barbara LeBrun,2
+2013-09-22,tomatoes,Barbara LeBrun,3
+2013-09-22,peppers,Barbara LeBrun,1
+2013-09-24,tomatoes,Barbara LeBrun,3
+2013-09-24,peppers,Barbara LeBrun,1
+2013-06-04,lettuce,Block C,1
+2013-07-23,cucumbers,Block C,5.5
+2013-07-28,cucumbers,Block C,2
+2013-07-28,zucchini,Block C,2.5
+2013-08-04,cucumbers,Block C,7
+2013-08-04,zucchini,Block C,3
+2013-08-04,chard,Block C,1
+2013-08-04,kale,Block C,1
+2013-08-06,cucumbers,Block C,4
+2013-08-11,herbs,Block C,0.5
+2013-08-11,cucumbers,Block C,4.5
+2013-08-11,basil,Block C,1
+2013-08-13,summer squash,Block C,3
+2013-08-13,cucumbers,Block C,17
+2013-08-20,beans,Block C,23
+2013-08-20,summer squash,Block C,7
+2013-08-20,cucumbers,Block C,2.5
+2013-08-27,beans,Block C,12
+2013-08-27,beans,Block C,17
+2013-08-27,winter squash,Block C,4.5
+2013-08-27,cucumbers,Block C,5.5
+2013-09-09,beans,Block C,37.5
+2013-09-17,beans,Block C,4
+2013-09-17,beans,Block C,5
+2013-08-06,kale,Bridget Charters,8
+2013-08-06,chard,Bridget Charters,1
+2013-08-13,kale,Bridget Charters,2.5
+2013-07-02,kale,Bridget Charters,6
+2013-07-02,chard,Bridget Charters,2
+2013-08-06,beans,Bruce & Chris Swee,1.5
+2013-08-30,beans,Bruce & Chris Swee,1
+2013-05-14,rhubarb,Bruce Schoonmaker,13
+2013-05-14,leeks,Bruce Schoonmaker,2
+2013-05-28,rhubarb,Bruce Schoonmaker,18
+2013-06-11,rhubarb,Bruce Schoonmaker,13
+2013-07-09,rhubarb,Bruce Schoonmaker,8
+2013-07-23,rhubarb,Bruce Schoonmaker,9.5
+2013-08-06,rhubarb,Bruce Schoonmaker,6.5
+2013-06-25,lettuce,Carole Bianquis,6.5
+2013-05-21,chard,Carolyn Alcorn,1.5
+2013-07-23,lettuce,Carolyn Alcorn,1
+2013-09-09,daikon radish,Charlie Evans,8
+2013-04-09,kale,Dave Smead,42
+2013-04-09,chard,Dave Smead,4
+2013-04-17,kale,Dave Smead,12
+2013-05-14,chard,Dave Smead,10
+2013-05-14,kale,Dave Smead,10
+2013-06-18,kale,Dave Smead,5
+2013-07-02,fava beans,Dave Smead,4
+2013-07-16,potatoes,Dave Smead,16
+2013-07-16,chard,Dave Smead,3
+2013-07-16,kale,Dave Smead,3.5
+2013-07-23,potatoes,Dave Smead,17.5
+2013-08-27,summer squash,Dave Smead,2
+2013-08-27,cucumbers,Dave Smead,1
+2013-08-27,chard,Dave Smead,5
+2013-08-27,kale,Dave Smead,6
+2013-08-27,potatoes,Dave Smead,17
+2013-09-09,kale,Dave Smead,6
+2013-09-09,chard,Dave Smead,5
+2013-09-09,summer squash,Dave Smead,1
+2013-09-21,kale,David and Joan Clinkston,1.5
+2013-09-21,chard,David and Joan Clinkston,5
+2013-07-23,rhubarb,David Branch,20
+2013-07-23,rhubarb,David Branch,15
+2013-06-04,potatoes,Deb Rock,5
+2013-10-12,greens,Deb Rock,8
+2013-06-04,leeks,Dee Hirsch,2.5
+2013-07-19,kale,Dee Hirsch,2
+2013-07-30,chard,Dee Hirsch,0.5
+2013-08-21,chard,Dee Hirsch,1
+2013-08-31,chard,Dee Hirsch,2
+2013-09-09,chard,Dee Hirsch,2
+2013-09-14,chard,Dee Hirsch,1
+2013-10-15,chard,Dee Hirsch,2
+2013-07-16,lettuce,Denise Read,2
+2013-07-23,lettuce,Denise Read,6.5
+2013-07-23,zucchini,Denise Read,2
+2013-08-12,beans,Denise Read,1
+2013-08-12,summer squash,Denise Read,1
+2013-08-20,beans,Denise Read,4
+2013-08-20,raspberries,Denise Read,1
+2013-09-21,beans,Donna Kalka,1.5
+2013-08-10,chard,Erik & Kirsten Gulmann,7
+2013-08-10,zucchini,Erik & Kirsten Gulmann,3
+2013-09-17,tomatoes,Erik & Kirsten Gulmann,4
+2013-09-24,tomatoes,Erik & Kirsten Gulmann,2
+2013-09-24,kale,Erik & Kirsten Gulmann,3.5
+2013-09-24,summer squash,Erik & Kirsten Gulmann,2
+2013-09-17,greens,Erik Bowman,5.5
+2013-06-03,radishes,F. T. ,0.5
+2013-06-03,chard,F. T. ,1
+2013-07-30,rhubarb,Flor Maldonado,20
+2013-09-17,tomatoes,Flor Maldonado,6
+2013-09-17,winter squash,Flor Maldonado,6.5
+2013-09-17,tomatoes,Flor Maldonado,11.5
+2013-04-09,beet greens,Garcia?,1
+2013-07-02,kale,Holly Bieniawski,7
+2013-09-15,tomatoes,Jean Daley,1
+2013-10-01,potatoes,Jean Daley,11
+2013-10-13,chard,Jean Daley,2
+2013-07-16,beets,Jean Sunborg,2
+2013-07-23,beets,Jean Sunborg,1
+2013-09-15,tomatoes,Jean Sunborg,3
+2013-09-17,tomatoes,Jean Sunborg,2.5
+2013-09-21,beets,Jean Unger,2
+2013-09-21,onions,Jean Unger,1
+2013-10-05,green onions,Jean Unger,1
+2013-05-07,chard,Jeff & Jen Rathbun,6.5
+2013-05-08,chard,Jeff & Jen Rathbun,16
+2013-04-16,scallions,Jim & Becky Blackstock,1
+2013-08-06,beans,Jim & Becky Blackstock,1
+2013-08-06,kale,Jim & Becky Blackstock,1
+2013-10-12,greens,Jim & Becky Blackstock,4
+2013-09-12,cucumbers,Jodie Scott,21
+2013-09-21,tomatoes,Jodie Scott,3
+2013-04-30,chard,Jude Berman,2.5
+2013-04-30,kale,Jude Berman,3.5
+2013-06-09,lettuce,Jude Berman,0.5
+2013-06-09,radishes,Jude Berman,0.5
+2013-07-09,kale,Jude Berman,1
+2013-08-02,summer squash,Jude Berman,3
+2013-08-06,kale,Jude Berman,1
+2013-08-17,kale,Jude Berman,1
+2013-08-20,kale,Jude Berman,3
+2013-09-09,spaghetti squash,Jude Berman,9
+2013-09-18,summer squash,Jude Berman,1.5
+2013-09-18,basil,Jude Berman,1
+2013-09-18,kale,Jude Berman,2
+2013-09-18,chard,Jude Berman,2.5
+2013-09-18,summer squash,Jude Berman,4
+2013-09-24,kale,Jude Berman,1
+2013-09-24,summer squash,Jude Berman,6
+2013-10-01,tarragon,Jude Berman,2
+2013-10-01,summer squash,Jude Berman,1
+2013-10-15,spaghetti squash,Jude Berman,17
+2013-06-09,lettuce,Judy Grams & ? Johnson,1.5
+2013-06-18,lettuce,Karen Whitner,6
+2013-06-18,cabbage,Karen Whitner,2
+2013-07-08,kale,Karen Whitner,1.5
+2013-07-08,zucchini,Karen Whitner,1.5
+2013-07-14,zucchini,Karen Whitner,3.5
+2013-07-20,zucchini,Karen Whitner,3
+2013-07-30,summer squash,Karen Whitner,7.5
+2013-07-30,cabbage,Karen Whitner,1.5
+2013-08-03,cabbage,Karen Whitner,2
+2013-08-03,onions,Karen Whitner,1
+2013-08-03,zucchini,Karen Whitner,8
+2013-08-04,beans,Karen Whitner,4
+2013-08-06,beans,Karen Whitner,1
+2013-08-06,cabbage,Karen Whitner,1
+2013-08-06,squash,Karen Whitner,8
+2013-08-11,cabbage,Karen Whitner,1.5
+2013-08-11,beans,Karen Whitner,1.5
+2013-08-11,summer squash,Karen Whitner,5.5
+2013-08-18,summer squash,Karen Whitner,8
+2013-08-20,zucchini,Karen Whitner,2.5
+2013-08-31,summer squash,Karen Whitner,2.5
+2013-08-31,beans,Karen Whitner,2
+2013-08-31,summer squash,Karen Whitner,6.5
+2013-08-31,zucchini,Karen Whitner,2
+2013-09-24,tomatoes,Karen Whitner,1
+2013-09-24,tomatoes,Karen Whitner,10
+2013-07-06,zucchini,Katrina Pickens - Patti Allen,2
+2013-07-06,kale,Katrina Pickens - Patti Allen,1
+2013-07-13,zucchini,Katrina Pickens - Patti Allen,1
+2013-07-13,chard,Katrina Pickens - Patti Allen,3
+2013-07-13,kale,Katrina Pickens - Patti Allen,1.5
+2013-07-16,zucchini,Katrina Pickens - Patti Allen,1
+2013-07-16,chard,Katrina Pickens - Patti Allen,2.5
+2013-07-16,kale,Katrina Pickens - Patti Allen,1.5
+2013-07-20,zucchini,Katrina Pickens - Patti Allen,1
+2013-07-20,chard,Katrina Pickens - Patti Allen,1
+2013-07-27,zucchini,Katrina Pickens - Patti Allen,2
+2013-07-27,chard,Katrina Pickens - Patti Allen,2
+2013-07-28,zucchini,Katrina Pickens - Patti Allen,2.5
+2013-08-02,chard,Katrina Pickens - Patti Allen,2.5
+2013-08-02,zucchini,Katrina Pickens - Patti Allen,2
+2013-08-20,kale,Katrina Pickens - Patti Allen,1
+2013-08-23,chard,Katrina Pickens - Patti Allen,1.5
+2013-09-07,chard,Katrina Pickens - Patti Allen,2.5
+2013-09-17,kale,Katrina Pickens - Patti Allen,1.5
+2013-10-01,kale,Katrina Pickens - Patti Allen,2.5
+2013-08-11,zucchini,Kelly & Josh Walter,2
+2013-08-11,kale,Kelly & Josh Walter,1
+2013-09-24,tomatoes,Kim Prohaska,14
+2013-09-24,tomatoes,Kim Prohaska,16
+2013-09-24,kale,Kim Prohaska,3.5
+2013-10-08,tomatoes,Kim Prohaska,3
+2013-10-08,beets,Kim Prohaska,5
+2013-10-08,carrots,Kim Prohaska,3
+2013-10-08,tomatoes,Kim Prohaska,4
+2013-08-06,summer squash,Leslie McKay,2
+2013-08-12,summer squash,Leslie McKay,2
+2013-08-23,summer squash,Leslie McKay,7
+2013-08-23,onions,Leslie McKay,0.5
+2013-08-24,rhubarb,Leslie McKay,1
+2013-09-24,tomatillos,Leslie McKay,5
+2013-09-24,summer squash,Leslie McKay,7
+2013-08-06,zucchini,Letitia Cain,1
+2013-09-17,rhubarb,Linda Cauron,26.5
+2013-09-17,rhubarb,Linda Cauron,11.5
+2013-06-29,lettuce,Lois Van Ottingham,1
+2013-06-04,greens,Magnolia Manor Park P-Patch,4
+2013-06-11,lettuce,Magnolia Manor Park P-Patch,3
+2013-06-11,chard,Magnolia Manor Park P-Patch,1.5
+2013-10-15,broccoli,Magnolia Manor Park P-Patch,1
+2013-10-15,beans,Magnolia Manor Park P-Patch,1
+2013-04-30,rhubarb,Marcia Wagoner,22
+2013-06-04,spinach,Marcia Wagoner,2.5
+2013-07-02,lettuce,Marcia Wagoner,2.5
+2013-07-02,onions,Marcia Wagoner,2
+2013-07-16,rhubarb,Marcia Wagoner,12
+2013-07-20,greens,Marcia Wagoner,1
+2013-07-20,potatoes,Marcia Wagoner,2
+2013-07-20,onions,Marcia Wagoner,3
+2013-07-20,zucchini,Marcia Wagoner,1.5
+2013-09-18,rhubarb,Marcia Wagoner,20
+2013-07-23,onions,mark and may,2.5
+2013-07-23,celery,Mark Sebring,6
+2013-08-17,beans,Mark Sebring,5
+2013-08-20,green beans,Mark Sebring,11
+2013-07-01,rhubarb,Mary Machala,1
+2013-07-13,rhubarb,Mary Machala,4
+2013-09-16,summer squash,Mary Machala,1.5
+2013-04-30,chard,Mary Mills,11.5
+2013-06-01,lettuce,Mary Mills,2
+2013-06-04,lettuce,Mary Mills,5
+2013-06-18,chard,Mary Mills,2.5
+2013-06-18,lettuce,Mary Mills,6
+2013-07-06,chard,Mary Mills,2
+2013-07-16,chard,Mary Mills,4
+2013-08-06,leeks,Mary Mills,5
+2013-08-10,zucchini,Mary Mills,4
+2013-08-13,chard,Mary Mills,7
+2013-08-13,zucchini,Mary Mills,1.5
+2013-08-17,summer squash,Mary Mills,3
+2013-08-17,leeks,Mary Mills,1
+2013-08-17,beans,Mary Mills,0.5
+2013-08-20,summer squash,Mary Mills,4
+2013-09-14,summer squash,Mary Mills,5
+2013-09-14,tomatoes,Mary Mills,3
+2013-09-14,chard,Mary Mills,2.5
+2013-09-24,beans,Mary Mills,1
+2013-04-09,chard,Mary Mills,7
+2013-09-17,kale,Merna Karp,5
+2013-09-17,peppers,Merna Karp,0.5
+2013-07-06,potatoes,Mervi Leino,2
+2013-09-22,tomatoes,Ortiz,7
+2013-06-24,mizuma,Patricia Jacobsen,0.5
+2013-08-27,green beans,Patricia Jacobsen,1
+2013-09-17,collards,Peter Shirley,5
+2013-09-17,kale,Peter Shirley,5
+2013-09-17,beans,Peter Shirley,8
+2013-09-21,zucchini,Rawley Reeser,25.5
+2013-07-20,beets,Ray Schutte,10
+2013-07-28,zucchini,Regina Anderson,6
+2013-07-28,green beans,Regina Anderson,0.5
+2013-07-28,mint,Regina Anderson,0.5
+2013-07-28,beets,Regina Anderson,1
+2013-08-22,tomatoes,Regina Anderson,1
+2013-08-22,squash,Regina Anderson,7.5
+2013-06-03,leeks,Stephanie Snyder,1
+2013-06-03,herbs,Stephanie Snyder,0.5
+2013-04-16,greens,Susan Casey,19
+2013-07-16,zucchini,Susan Casey,1.5
+2013-06-04,rhubarb,Susan Harris,2
+2013-06-04,rhubarb,Susan Harris,0.5
+2013-06-03,lettuce,Susan Harris,1
+2013-06-03,spinach,Susan Harris,0.5
+2013-08-13,green beans,Susan Harris,2.5
+2013-09-24,rhubarb,Susan Harris,6
+2013-10-05,winter squash,Susan Harris,5
+2013-09-03,beans,Tom Eames,1.5
+2013-06-17,lettuce,Trish Nicola,1
+2013-08-04,cucumbers,Trish Nicola,1
+2013-08-17,beans,Trish Nicola,1.5
+2013-08-25,beans,Trish Nicola,2
+2013-08-25,cucumbers,Trish Nicola,2
+2013-08-25,rhubarb,Trish Nicola,3.5
+2013-09-09,beans,Trish Nicola,3
+2013-09-09,cucumbers,Trish Nicola,7.5
+2013-06-25,lettuce,Wendy Walter,3
+2013-08-17,tomatoes,Wendy Walter,1.5
+2013-08-20,greens,Wendy Walter,2
+2013-08-20,basil,Wendy Walter,0.5
+2013-08-20,tomatoes,Wendy Walter,10
+2013-08-27,raspberries,Wendy Walter,0.5
+2013-09-09,basil,Wendy Walter,1
+2013-09-09,tomatoes,Wendy Walter,6
+2013-09-09,raspberries,Wendy Walter,0.5
+2013-09-09,chard,Wendy Walter,1.5
+2013-09-09,basil,Wendy Walter,0.5
+2013-09-18,tomatoes,Wendy Walter,1.5

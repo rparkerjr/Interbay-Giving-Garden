@@ -1,0 +1,428 @@
+date,produce,gardener,weight
+2014-08-05,basil,ann tamura,0.5
+2014-07-14,basil,barbara lebrun,0.5
+2014-07-26,basil,barbara lebrun,0.5
+2014-07-27,basil,barbara lebrun,0.5
+2014-08-03,basil,barbara lebrun,0.5
+2014-08-08,basil,barbara lebrun,0.5
+2014-08-12,basil,barbara lebrun,0.5
+2014-08-18,basil,barbara lebrun,0.5
+2014-09-02,basil,barbara lebrun,0.5
+2014-09-27,basil,barbara lebrun,0.5
+2014-10-07,basil,barbara lebrun,0.5
+2014-09-09,basil,denise read,1
+2014-09-16,basil,denise read,1
+2014-07-22,basil,jude berman,0.5
+2014-08-05,basil,jude berman,0.5
+2014-09-09,basil,jude berman,1
+2014-10-13,basil,smead,0.5
+2014-08-02,beans,ann tamura,3
+2014-08-05,beans,ann tamura,1
+2014-08-16,beans,ann tamura,2
+2014-09-20,beans,ann tamura,2
+2014-08-09,beans,anne van roden,1
+2014-09-09,beans,anonymous,0.5
+2014-09-16,beans,anonymous,3.5
+2014-07-27,beans,barbara lebrun,1
+2014-07-29,beans,donna kalka,1
+2014-07-22,beans,jean daley,1.5
+2014-08-02,beans,jean daley,1
+2014-08-26,beans,leslie hammons,1.5
+2014-09-27,beans,marcia wagoner,7
+2014-10-07,beans,marcia wagoner,2
+2014-09-02,beans,mark sebring,7
+2014-08-05,beans,merna karp,0.5
+2014-08-08,beans,merna karp,2
+2014-08-12,beans,merna karp,1.5
+2014-08-12,beans,molly wirtz,1
+2014-09-02,beans,nami ellis,5
+2014-08-05,beans,patti bingham,1
+2014-08-12,beans,ray schutte,2.5
+2014-08-05,beans,susan casey,4
+2014-08-08,beans,susan casey,2.5
+2014-08-06,beans,THN,1
+2014-07-26,beans,wendi sargent,1
+2014-09-09,beets,?,6
+2014-07-29,beets,ann tamura,5
+2014-08-19,beets,anonymous,3
+2014-10-11,beets,BB vista,17
+2014-09-30,beets,david branch,1
+2014-07-12,beets,george tracy,2
+2014-09-28,beets,jean daley,2.5
+2014-09-30,beets,jean sundborg,9
+2014-09-06,beets,jude berman,1
+2014-07-06,beets,mary mills,4
+2014-10-11,beets,mary mills,3
+2014-07-29,beets,mervi leino,9
+2014-08-30,beets,mervi leino,14
+2014-06-29,beets,nick cullen,2
+2014-08-19,broccoli,george tracy,1
+2014-05-31,broccoli,mary mills,2
+2014-07-22,cabbage,anonymous,3
+2014-07-14,cabbage,barbara lebrun,5
+2014-07-26,cabbage,barbara lebrun,2
+2014-07-27,cabbage,barbara lebrun,4
+2014-07-22,chard,ann tamura,1.5
+2014-08-26,chard,ann tamura,2
+2014-09-09,chard,ann tamura,2
+2014-10-14,chard,ann tamura,3
+2014-09-30,chard,anonymous,8
+2014-08-26,chard,BB vista,10
+2014-07-21,chard,charlie evans,5.5
+2014-07-29,chard,charlie evans,3
+2014-08-05,chard,charlie evans,3
+2014-08-19,chard,charlie evans,3
+2014-09-02,chard,charlie evans,3
+2014-09-09,chard,charlie evans,3
+2014-09-16,chard,charlie evans,4
+2014-09-27,chard,charlie evans,3
+2014-10-21,chard,charlie evans,11.5
+2014-07-29,chard,charters,4
+2014-10-14,chard,charters,5
+2014-09-30,chard,david branch,11.5
+2014-09-30,chard,david branch,13
+2014-10-07,chard,david branch,2.5
+2014-10-14,chard,david branch,9
+2014-06-10,chard,elizabeth poh,2
+2014-06-24,chard,elizabeth poh,0.5
+2014-09-20,chard,george tracy,4
+2014-09-09,chard,jean daley,1
+2014-09-30,chard,jean sundborg,3
+2014-05-24,chard,jean unger,1
+2014-05-02,chard,jude berman,2
+2014-09-30,chard,marcia wagoner,4
+2014-09-30,chard,marcia wagoner,4
+2014-10-14,chard,marcia wagoner,4
+2014-05-24,chard,mary mills,0.5
+2014-05-24,chard,mary mills,0.5
+2014-06-07,chard,mary mills,2
+2014-07-19,chard,mary mills,2
+2014-07-26,chard,mary mills,1
+2014-08-23,chard,mary mills,2.5
+2014-09-13,chard,mary mills,2
+2014-09-20,chard,mary mills,2
+2014-09-23,chard,mary mills,2
+2014-10-07,chard,mary mills,3.5
+2014-09-27,chard,merna karp,0.5
+2014-09-30,chard,nick cullen,3
+2014-07-12,chard,patti allen,2
+2014-07-16,chard,patti allen,6
+2014-07-22,chard,patti allen,2
+2014-09-20,chard,patti allen,1.5
+2014-09-27,chard,patti allen,1.5
+2014-08-08,chard,patti bingham,1
+2014-09-09,chard,rolf hokansson,2
+2014-07-08,chard,smead,3
+2014-07-22,chard,smead,3
+2014-10-13,chard,smead,8
+2014-07-08,chard,ventimiglia,3.5
+2014-06-28,chard,wendy walter,5
+2014-07-05,chard,wendy walter,0.5
+2014-07-29,chard,wendy walter,4
+2014-07-26,chives,anonymous,2
+2014-05-02,cilantro,jude berman,1
+2014-08-19,collards,george tracy,8
+2014-07-05,collards,janis rager,2.5
+2014-07-12,collards,janis rager,3.5
+2014-07-19,collards,janis rager,1
+2014-07-22,collards,janis rager,2.5
+2014-07-29,collards,janis rager,1.5
+2014-09-09,collards,jean daley,2
+2014-10-07,collards,wendy walter,1
+2014-07-22,cucumbers,ann tamura,3
+2014-07-29,cucumbers,ann tamura,2
+2014-08-02,cucumbers,ann tamura,10
+2014-08-05,cucumbers,ann tamura,9
+2014-08-16,cucumbers,ann tamura,3
+2014-08-19,cucumbers,ann tamura,4
+2014-08-26,cucumbers,ann tamura,13
+2014-09-02,cucumbers,ann tamura,8
+2014-09-02,cucumbers,ann tamura,3
+2014-09-09,cucumbers,ann tamura,5
+2014-09-16,cucumbers,ann tamura,5
+2014-09-20,cucumbers,ann tamura,2
+2014-09-27,cucumbers,ann tamura,2
+2014-08-19,cucumbers,anonymous,3
+2014-08-26,cucumbers,brooke ,0.5
+2014-08-19,cucumbers,donna gordan,6
+2014-08-19,cucumbers,george tracy,16
+2014-08-05,cucumbers,mary mills,1.5
+2014-08-18,cucumbers,mervi leino,8
+2014-08-30,cucumbers,mervi leino,5
+2014-08-12,cucumbers,ray schutte,0.5
+2014-08-16,cucumbers,ray schutte,2.5
+2014-08-12,cucumbers,smead,3.5
+2014-08-19,cucumbers,smead,1.5
+2014-09-02,cucumbers,smead,12
+2014-07-26,cucumbers,wendi sargent,0.5
+2014-08-05,cucumbers,wendi sargent,23
+2014-08-12,cucumbers,wendi sargent,3
+2014-07-22,cucumbers,wendy walter,3
+2014-09-21,eggplant,karen whitner,0.5
+2014-07-08,fava beans,ventimiglia,2
+2014-09-09,grapes,rolf hokansson,27
+2014-05-27,green onions,BB vista,4.5
+2014-10-07,green onions,riedmann,5
+2014-07-26,greens,anonymous,5.5
+2014-08-02,greens,anonymous,11
+2014-08-19,greens,smead,10
+2014-09-23,greens,smead,24
+2014-07-22,herbs,anonymous,0.5
+2014-10-14,herbs,anonymous,1.5
+2014-06-16,herbs,barbara lebrun,0.5
+2014-06-24,herbs,barbara lebrun,0.5
+2014-07-19,herbs,barbara lebrun,0.5
+2014-07-29,herbs,janis rager,1
+2014-07-15,kale,ann tamura,4
+2014-07-22,kale,ann tamura,1.5
+2014-08-16,kale,ann tamura,3
+2014-08-26,kale,ann tamura,7
+2014-09-09,kale,ann tamura,2
+2014-08-09,kale,anne van roden,1.5
+2014-07-29,kale,anonymous,5
+2014-08-08,kale,anonymous,12.5
+2014-08-19,kale,anonymous,2
+2014-09-30,kale,anonymous,6
+2014-10-14,kale,anonymous,6
+2014-08-19,kale,charlie evans,1
+2014-09-02,kale,charlie evans,1.5
+2014-09-30,kale,charlie evans,3
+2014-10-07,kale,charlie evans,3.5
+2014-09-30,kale,david branch,1
+2014-10-07,kale,david branch,1
+2014-09-23,kale,erik gulmann,0.5
+2014-06-28,kale,george tracy,11
+2014-07-05,kale,george tracy,4
+2014-07-19,kale,george tracy,4
+2014-07-22,kale,george tracy,9
+2014-07-29,kale,george tracy,5
+2014-08-05,kale,george tracy,2
+2014-08-19,kale,george tracy,1
+2014-08-19,kale,george tracy,5
+2014-08-19,kale,george tracy,7
+2014-08-23,kale,george tracy,4
+2014-08-26,kale,george tracy,4
+2014-08-30,kale,george tracy,2
+2014-09-13,kale,george tracy,2
+2014-09-20,kale,george tracy,2
+2014-07-12,kale,janis rager,0.5
+2014-07-22,kale,janis rager,1
+2014-07-29,kale,janis rager,1
+2014-09-09,kale,jean daley,3
+2014-07-22,kale,jude berman,0.5
+2014-09-06,kale,jude berman,1
+2014-08-26,kale,leslie hammons,0.5
+2014-08-05,kale,linda cuaron,6
+2014-08-16,kale,linda cuaron,6.5
+2014-10-11,kale,linda cuaron,3.5
+2014-10-07,kale,marcia wagoner,5
+2014-09-27,kale,merna karp,1
+2014-07-17,kale,nick cullen,2
+2014-08-03,kale,nick cullen,6
+2014-09-30,kale,nick cullen,4
+2014-10-07,kale,patti allen,2
+2014-10-14,kale,patti allen,2
+2014-10-21,kale,patti allen,1
+2014-07-08,kale,pickens,1.5
+2014-08-12,kale,plot 43,1
+2014-09-20,kale,prohaska,7
+2014-09-30,kale,rolf hokansson,3
+2014-06-17,kale,sharyn wallin,6
+2014-07-05,kale,sharyn wallin,2
+2014-07-12,kale,sharyn wallin,1
+2014-09-02,kale,sharyn wallin,1
+2014-09-16,kale,sharyn wallin,3
+2014-07-22,kale,smead,3
+2014-08-26,kale,trish nicola,2.5
+2014-10-07,kale,wendy walter,2.5
+2014-10-07,kohlrabi,marcia wagoner,8
+2014-07-11,lavender,jude berman,1
+2014-06-24,lavender,rolf hokansson,1
+2014-09-30,leek,sharyn wallin,2
+2014-05-24,leeks,mary mills,1
+2014-07-15,lettuce,ann tamura,10
+2014-07-19,lettuce,ann tamura,2.5
+2014-06-17,lettuce,anonymous,11
+2014-06-17,lettuce,bruce swee,7
+2014-06-24,lettuce,bruce swee,1.5
+2014-06-28,lettuce,carolyn alcorn,1
+2014-07-08,lettuce,carolyn alcorn,2
+2014-06-12,lettuce,celeste umphed,2.5
+2014-07-29,lettuce,charlie evans,2
+2014-05-31,lettuce,christine federhart,1
+2014-06-10,lettuce,corrina birdseye,4
+2014-07-08,lettuce,jean daley,1.5
+2014-06-24,lettuce,jean sundborg,2
+2014-06-17,lettuce,jean unger,2
+2014-07-05,lettuce,jean unger,1.5
+2014-06-14,lettuce,jim blackstock,1
+2014-06-14,lettuce,jude berman,4
+2014-09-06,lettuce,jude berman,2
+2014-09-06,lettuce,jude berman,1
+2014-06-10,lettuce,leslie mckay,12
+2014-05-24,lettuce,mary mills,1
+2014-06-07,lettuce,mary mills,4
+2014-07-06,lettuce,mary mills,2
+2014-07-22,lettuce,mary mills,3
+2014-07-26,lettuce,mary mills,1
+2014-08-12,lettuce,mary mills,8
+2014-07-08,lettuce,prohaska,1
+2014-05-18,lettuce,ray schutte,2.5
+2014-06-14,lettuce,ray schutte,1
+2014-06-17,lettuce,ray schutte,1
+2014-06-28,lettuce,ray schutte,1.5
+2014-07-05,lettuce,ray schutte,4
+2014-07-12,lettuce,ray schutte,5
+2014-05-24,lettuce,regina anderson,2.5
+2014-07-08,lettuce,smead,3
+2014-06-17,lettuce,trish nicola,2.5
+2014-07-08,lettuce,trish nicola,5.5
+2014-07-08,lettuce,ventimiglia,14
+2014-05-27,lettuce,wendy walter,3
+2014-06-10,mint,jude berman,2
+2014-07-27,onions,al hirsch,3
+2014-08-08,onions,al hirsch,3
+2014-07-15,onions,ann tamura,6
+2014-08-02,onions,ann tamura,1
+2014-07-15,onions,anonymous,1
+2014-08-19,onions,george tracy,3
+2014-08-12,onions,karen whitner,5
+2014-08-30,onions,karen whitner,3.5
+2014-07-12,onions,sharyn wallin,0.5
+2014-10-07,parsley,david branch,1.5
+2014-10-11,parsley,david branch,0.5
+2014-08-05,parsley,jude berman,0.5
+2014-10-07,parsley,jude berman,1
+2014-10-07,parsley,wendy walter,0.5
+2014-08-19,pears,barry,17
+2014-07-22,peas,anonymous,0.5
+2014-07-05,peas,george tracy,3
+2014-07-12,peas,george tracy,2.5
+2014-06-14,peas,jim blackstock,1
+2014-06-14,peas,ray schutte,6
+2014-06-17,peas,ray schutte,1
+2014-06-12,peas,ray schutte,1.5
+2014-08-18,peppers,barbara lebrun,0.5
+2014-09-20,peppers,barbara lebrun,0.5
+2014-09-21,peppers,karen whitner,0.5
+2014-09-29,peppers,patti jacobsen,0.5
+2014-08-12,plums,barbara lebrun,4.5
+2014-09-28,potatoes,jean daley,2
+2014-09-30,pumpkin,THN,8
+2014-10-07,pumpkin,trish nicola,11
+2014-07-14,rhubarb,?,1
+2014-07-16,rhubarb,anonymous,10.5
+2014-06-10,rhubarb,bruce schoonmaker,9
+2014-06-17,rhubarb,bruce schoonmaker,11
+2014-07-08,rhubarb,bruce schoonmaker,12
+2014-07-22,rhubarb,bruce schoonmaker,6
+2014-07-22,rhubarb,bruce schoonmaker,7.5
+2014-08-05,rhubarb,bruce schoonmaker,5
+2014-09-16,rhubarb,bruce schoonmaker,12
+2014-10-07,rhubarb,david branch,2.5
+2014-06-24,rhubarb,elizabeth poh,1
+2014-06-12,rhubarb,flor maldonado,0.5
+2014-06-24,rhubarb,jean sundborg,3
+2014-08-12,rhubarb,kathy shackelford,6.5
+2014-06-14,rhubarb,marcia wagoner,16
+2014-06-28,rhubarb,marcia wagoner,7
+2014-07-08,rhubarb,marcia wagoner,9
+2014-08-05,rhubarb,marcia wagoner,7
+2014-09-23,rhubarb,marcia wagoner,8
+2014-10-07,rhubarb,marcia wagoner,1.5
+2014-06-17,spinach,bruce swee,2
+2014-06-07,spinach,marcia wagoner,3
+2014-06-10,strawberries,corrina birdseye,2
+2014-06-03,strawberries,jean daley,3
+2014-09-01,summer squash,?,1.5
+2014-08-26,summer squash,ann tamura,1
+2014-08-09,summer squash,anne van roden,3
+2014-08-08,summer squash,barbara lebrun,3
+2014-08-12,summer squash,barbara lebrun,10
+2014-08-12,summer squash,carolyn alcorn,1.5
+2014-09-28,summer squash,jean daley,2
+2014-08-08,summer squash,jean unger,2
+2014-08-12,summer squash,karen whitner,6.5
+2014-08-19,summer squash,karen whitner,9
+2014-08-26,summer squash,leslie hammons,17
+2014-07-12,summer squash,mary mills,2
+2014-08-16,summer squash,mary mills,3
+2014-09-27,summer squash,mary mills,4
+2014-09-09,summer squash,rolf hokansson,8
+2014-08-08,summer squash,sharon appelt,3.5
+2014-08-06,summer squash,THN,2
+2014-08-26,summer squash,trish nicola,2
+2014-09-28,tomatillos,schyler morrison,2.5
+2014-08-24,tomatoes,al hirsch,2
+2014-08-30,tomatoes,al hirsch,1.5
+2014-09-06,tomatoes,al hirsch,2
+2014-08-26,tomatoes,ann tamura,1
+2014-09-02,tomatoes,ann tamura,1
+2014-09-06,tomatoes,ann tamura,6
+2014-09-23,tomatoes,ann tamura,1
+2014-09-27,tomatoes,ann tamura,2
+2014-07-22,tomatoes,anonymous,1
+2014-09-02,tomatoes,barbara lebrun,6.5
+2014-09-06,tomatoes,barbara lebrun,3
+2014-09-20,tomatoes,barbara lebrun,1
+2014-09-27,tomatoes,barbara lebrun,1.5
+2014-08-26,tomatoes,brooke ,0.5
+2014-09-30,tomatoes,david branch,3
+2014-09-16,tomatoes,denise read,5
+2014-08-08,tomatoes,denise vaughn,0.5
+2014-08-19,tomatoes,george tracy,2
+2014-08-26,tomatoes,george tracy,3
+2014-08-02,tomatoes,jean daley,0.5
+2014-09-09,tomatoes,jean daley,2
+2014-09-28,tomatoes,jean daley,1
+2014-09-24,tomatoes,jean sundborg,8
+2014-09-30,tomatoes,jenise silva,10
+2014-09-30,tomatoes,jenise silva,10.5
+2014-09-16,tomatoes,jim blackstock,2
+2014-08-19,tomatoes,jude berman,2
+2014-09-06,tomatoes,jude berman,6
+2014-09-20,tomatoes,jude berman,2
+2014-09-21,tomatoes,karen whitner,20.5
+2014-09-28,tomatoes,karen whitner,33
+2014-08-16,tomatoes,mary mills,1.5
+2014-08-30,tomatoes,mary mills,2.5
+2014-09-13,tomatoes,mary mills,3.5
+2014-09-20,tomatoes,mary mills,0.5
+2014-09-27,tomatoes,mccarthy,3
+2014-09-20,tomatoes,prohaska,4
+2014-09-28,tomatoes,schyler morrison,2.5
+2014-09-27,tomatoes,sharyn wallin,5
+2014-09-30,tomatoes,sharyn wallin,1
+2014-09-02,tomatoes,trish nicola,3
+2014-09-09,winter squash,carole bianquis,91
+2014-08-26,zucchini,ann tamura,1
+2014-09-09,zucchini,ann tamura,5
+2014-07-08,zucchini,anonymous,2
+2014-07-12,zucchini,anonymous,3
+2014-07-15,zucchini,anonymous,8
+2014-07-22,zucchini,anonymous,1.5
+2014-07-29,zucchini,anonymous,15
+2014-09-16,zucchini,anonymous,4.5
+2014-10-07,zucchini,anonymous,1
+2014-08-19,zucchini,barry,2
+2014-08-26,zucchini,brooke ,2
+2014-07-22,zucchini,bruce swee,3
+2014-07-22,zucchini,dean,3
+2014-08-08,zucchini,denise vaughn,4
+2014-07-08,zucchini,erik gulmann,2.5
+2014-08-19,zucchini,george tracy,2
+2014-09-28,zucchini,jean daley,2
+2014-07-05,zucchini,jean unger,1.5
+2014-07-12,zucchini,jean unger,3
+2014-08-02,zucchini,jean unger,5
+2014-07-29,zucchini,karen whitner,8
+2014-08-06,zucchini,karen whitner,4.5
+2014-08-08,zucchini,karen whitner,9.5
+2014-07-26,zucchini,larry wicks,10.5
+2014-07-19,zucchini,mary mills,3
+2014-07-22,zucchini,mary mills,5
+2014-07-26,zucchini,mary mills,3
+2014-08-05,zucchini,mary mills,2.5
+2014-09-19,zucchini,patti allen,2.5
+2014-07-17,zucchini,schyler morrison,2
+2014-07-26,zucchini,wendi sargent,1
