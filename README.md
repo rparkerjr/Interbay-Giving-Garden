@@ -24,6 +24,9 @@ From this base it may be possible to build some basic regex decision making for 
 ### Year and Week Markers
 To simplify slicing and filtering I added `week` and `year` fields. Leadership was interested in viewing the data based on the weekly harvesting schedule rather than on a monthly basis, and seasons are reported at an annual level.
 
+### Giving Garden Flag
+Added a `gg` Boolean flag to indicate whether a record is for the Giving Garden (True) or for an individual gardener (False).
+
 ### Nutrition Data
 I found a spreadsheet with lots of nutritional data by food item (https://tools.myfooddata.com/nutrition-facts-database-spreadsheet.php) and would like to add this in the future.
 
@@ -35,6 +38,7 @@ Cleaned .csv output as 'Giving Garden Combined.csv'
 - weight : float [##.#], recorded weight in pounds for the given produce
 - week : integer, ISO week of donation
 - year : integer, 4-digit year of donation
+- gg : Boolean, True if Giving Garden donation
 - prod_name : string, cleaned and standardized produce name
 - generic_name : string, generic rollup produce name
 - prod_group : string, broad rollup category
