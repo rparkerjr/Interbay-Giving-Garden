@@ -4,35 +4,35 @@ green apples,apples,fruit
 armenian cucumbers,cucumbers,cucumbers
 artichokes,artichokes,artichokes
 arugula,arugula,herbs
-asian greens,greens,greens
+asian greens,greens,leafy vegetables
 zucchini,summer squash,squash
 basil,basil,herbs
 green beans,green beans,green beans
-beet greens,greens,greens
-beets,beets,beets
+beet greens,greens,leafy vegetables
+beets,beets,root vegetables
 berries,berries,fruit
 blue lake beans,green beans,green beans
 blueberries,berries,fruit
-bok choi,cabbage,greens
-bok choi,cabbage,greens
+bok choi,cabbage,leafy vegetables
+bok choi,cabbage,leafy vegetables
 broccoli,broccoli,broccoli
-broccoli greens,greens,greens
+broccoli greens,greens,leafy vegetables
 brownies,brownies,baked goods
 bush beans,green beans,green beans
-cabbage,cabbage,greens
-carrots,carrots,carrots
+cabbage,cabbage,leafy vegetables
+carrots,carrots,root vegetables
 cauliflower,cauliflower,cauliflower
 celery,celery,celery
 chard,chard,chard
 cherry tomatoes,tomatoes,tomatoes
 chives,chives,herbs
 cilantro,cilantro,herbs
-collard greens,greens,greens
-collard greens,greens,greens
+collard greens,greens,leafy vegetables
+collard greens,greens,leafy vegetables
 cucumbers,cucumbers,cucumbers
 cucumbers,cucumbers,cucumbers
-kale,kale,greens
-daikon radish,radish,radish
+kale,kale,leafy vegetables
+daikon radish,radish,root vegetables
 eggplant,eggplant,eggplant
 fava beans,green beans,green beans
 fennel,fennel,herbs
@@ -42,35 +42,35 @@ fruit,fruit,fruit
 garlic,garlic,garlic
 grapes,grapes,fruit
 green beans,green beans,green beans
-green onions,green onions,green onions
+green onions,green onions,onions
 green peppers,peppers,peppers
-greens,greens,greens
+greens,greens,leafy vegetables
 herbs,herbs,herbs
 hubbard squash,squash,squash
-kale,kale,greens
-dwarf siberian kale,kale,greens
-red russian kale,kale,greens
-kohlrabi,kohlrabi,kohlrabi
+kale,kale,leafy vegetables
+dwarf siberian kale,kale,leafy vegetables
+red russian kale,kale,leafy vegetables
+kohlrabi,kohlrabi,root vegetables
 lavender,lavender,herbs
-leeks,leeks,leeks
-leeks,leeks,leeks
+leeks,leeks,onions
+leeks,leeks,onions
 lemon balm,lemon balm,herbs
-lettuce,lettuce,lettuce
-optima lettuce,lettuce,lettuce
-romaine lettuce,lettuce,lettuce
+lettuce,lettuce,leafy vegetables
+optima lettuce,lettuce,leafy vegetables
+romaine lettuce,lettuce,leafy vegetables
 mint,mint,herbs
-mizuma lettuce,lettuce,lettuce
-mustard greens,greens,greens
-mustard greens,greens,greens
+mizuma lettuce,lettuce,leafy vegetables
+mustard greens,greens,leafy vegetables
+mustard greens,greens,leafy vegetables
 onions,onions,onions
-green onions,green onions,green onions
-onion scapes,green onions,green onions
+green onions,green onions,onions
+onion scapes,green onions,onions
 onions,onions,onions
 onions,onions,onions
 oregano,oregano,herbs
-bok choi,cabbage,greens
+bok choi,cabbage,leafy vegetables
 parsley,parsley,herbs
-parsnips,parsnips,parsnips
+parsnips,parsnips,root vegetables
 peaches,peaches,fruit
 pears,pears,fruit
 anjou pears,pears,fruit
@@ -78,28 +78,28 @@ bartlett pears,pears,fruit
 peas,peas,peas
 peppers,peppers,peppers
 plums,plums,fruit
-potatoes,potatoes,potatoes
+potatoes,potatoes,root vegetables
 pumpkins,pumpkins,squash
 pumpkins,pumpkins,squash
 quince,quince,fruit
-radish,radish,radish
-radish,radish,radish
+radish,radish,root vegetables
+radish,radish,root vegetables
 rainbow chard,chard,chard
 raspberries,berries,fruit
-radish,radish,radish
+radish,radish,root vegetables
 rhubarb,rhubarb,rhubarb
 roma tomatoes,tomatoes,tomatoes
-romaine lettuce,lettuce,lettuce
+romaine lettuce,lettuce,leafy vegetables
 rosemary,rosemary,herbs
 sage,sage,herbs
-scallions,green onions,green onions
-shallots,shallots,shallots
-dwarf siberian kale,kale,greens
+scallions,green onions,onions
+shallots,shallots,onions
+dwarf siberian kale,kale,leafy vegetables
 snap peas,peas,peas
 snow peas,peas,peas
 spaghetti squash,winter squash,squash
-spinach,spinach,spinach
-spinach,spinach,spinach
+spinach,spinach,leafy vegetables
+spinach,spinach,leafy vegetables
 squash,squash,squash
 butternut squash,winter squash,squash
 delicata squash,winter squash,squash
@@ -112,7 +112,7 @@ tomatoes,tomatoes,tomatoes
 cherry tomatoes,tomatoes,tomatoes
 green tomatoes,tomatoes,tomatoes
 roma tomatoes,tomatoes,tomatoes
-turnips,turnips,turnips
+turnips,turnips,root vegetables
 unavailable,unavailable,unavailable
 walla walla onions,onions,onions
 winter squash,winter squash,squash
